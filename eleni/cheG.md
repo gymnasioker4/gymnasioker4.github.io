@@ -8,9 +8,9 @@ title: Θεωρία Χημείας
 
 ## O περιοδικός πίνακας
 
-![](/hugo/admin/articles/images/periodikos.jpg)
-![](images/periodikos2.jpg)
-![](images/periodikos3.jpg)
+![](../images/periodikos.jpg)
+![](../images/periodikos2.jpg)
+![](../images/periodikos3.jpg)
 
 Ο πρώτος περιοδικός πίνακας των στοιχείων παρουσιάστηκε λίγο πριν από το 1870 από το Ρώσο χημικό Mendeleev.
 
@@ -88,8 +88,8 @@ title: Θεωρία Χημείας
 \\\b
 ## Διοξείδιο του άνθρακα
 
-![co21](images/co21.png)
-![co2](images/co2.png)
+![co21](../images/co21.png)
+![co2](../images/co2.png)
 Το CO2είναι απαραίτητο στα φυτά για τη φωτοσύνθεση, ευθύνεται όμως και για την υπερθέρμανση του πλανήτη, επειδή είναι αέριο του θερμοκηπίου.
 
 Χρησιμοποιείται στα αναψυκτικά με ανθρακικό και στους απλούς πυροσβεστήρες.
