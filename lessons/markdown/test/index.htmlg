@@ -1,0 +1,13 @@
+ 
+{{.Split "123-456-7890" "-"}}
+
+
+
+{{$val := .URL.RawQuery}}
+  
+3333
+   
+{{.URL.RawQuery}}
+
+{{$val}}
+{{.Include "/docs/vagelis/lessons/markdown/test/slide2.md"}}
