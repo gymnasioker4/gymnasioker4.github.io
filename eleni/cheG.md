@@ -8,9 +8,9 @@ title: Θεωρία Χημείας
 
 ## O περιοδικός πίνακας
 
-![](../images/periodikos.jpg)
-![](../images/periodikos2.jpg)
-![](../images/periodikos3.jpg)
+![](/hugo/admin/images/periodikos.jpg)
+![](/hugo/admin/images/periodikos2.jpg)
+![](/hugo/admin/images/periodikos3.jpg)
 
 Ο πρώτος περιοδικός πίνακας των στοιχείων παρουσιάστηκε λίγο πριν από το 1870 από το Ρώσο χημικό Mendeleev.
 

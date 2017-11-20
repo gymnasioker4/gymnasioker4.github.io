@@ -3,14 +3,14 @@ tags: [aaaaaaa,sss,ασδασδ]
 title: mathematics222
 ---
 
-
-11111111
+ddddddddd32313213213  
+23232323232
 
 
 $$
-\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
+0}^n i^2 
 $$
 
 
 
-\`x = (-b +- sqrt(b^2-4ac))/(2a) .\`
+ (-b  - sqrt(b^2-4ac))/(2a) .\`

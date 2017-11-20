@@ -1,3 +1,12 @@
+---
+title: Χημεία Γ Γυμνασιου
+date: 17-6-2017
+tags: [Χημεία, Ασκήσεις Χημείας]
+thumbnail: img/placeholder.png
+---
+
+
+
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -28,9 +37,9 @@
 
 Β. Στις παρακατω αντιδρασεις πειτε σε ποιες περιπτωσεις το μετταλο αντικαθιστα (διωχνει) το Η του HCl
 
-![](img/metala3.jpg)
+![](/hugo/admin/img/metala3.jpg)
 
-![](img/metala2.jpg)
+![](/hugo/admin/img/metala2.jpg)
  
 
 
@@ -66,5 +75,3 @@ $$
         
            
 ---       
-
-
