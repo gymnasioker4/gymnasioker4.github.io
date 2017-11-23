@@ -1,26 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob100.md">Γιατί η κόλλα δεν κολλάει μέσα στο σωληνάριο</a></h1>
-![](http://www.kapsis.gr/thumb/phpThumb.php?src=../images/products/1302679866_570_Glitter_Glue_6er.jpg&w=400&h=350&far=C&bg=FCFCFE&) 
-<iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSTFo3cGhuVlhUeU0/preview" width="500"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob100.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob100.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob099.md">Αλισίβα</a></h1>
-![](http://1.bp.blogspot.com/-M1MRQntgZyM/T_IJ6i9IAvI/AAAAAAAAAzg/QzmGiSPRozI/s320/%CF%83%CF%84%CE%B1%CC%81%CF%87%CF%84%CE%B72.jpg) 
-<iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSUU9NU1JjOHgtRVU/preview" width="500"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob099.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob099.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob098.md">Περιεκτικότητα διαλύματος</a></h1>
 ![](http://digitalschool.minedu.gov.gr/modules/ebook/show.php/DSGYM-B202/219/1998,5034/images/70.jpg) 
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSNkdxQmtKQk5paDg/preview" width="500"></iframe>
@@ -120,6 +98,33 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob090.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob090.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob089.md">Λογοτεχνικός διαγωνισμός του 4ου Γυμνασίου Κέρκυρας</a></h1>
+[![](http://2.bp.blogspot.com/_f4VyuGJXWZQ/TAZfhSuk8iI/AAAAAAAAAR8/b7_BZ2XBL9w/s200/literature.jpg)](http://2.bp.blogspot.com/_f4VyuGJXWZQ/TAZfhSuk8iI/AAAAAAAAAR8/b7_BZ2XBL9w/s1600/literature.jpg) 
+ΑΝΑΚΟΙΝΩΣΗ ΑΠΟΤΕΛΕΣΜΑΤΩΝ 
+1ου ΛΟΓΟΤΕΧΝΙΚΟΥ ΔΙΑΓΩΝΙΣΜΟΥ 
+4ου Γυμνασίου Κέρκυρας 
+Ο λογοτεχνικός διαγωνισμός του 4ου Γυμνασίου Κέρκυρας έδειξε ένα άλλο πρόσωπο του σχολείου μας. Παρά τη μικρή συμμετοχή των μαθητών -κάποιοι δίστασαν ή είπαν ότι δεν πρόλαβαν- όλα τα έργα που
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob089.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob089.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob088.md">Η εκδρομή 4ου Γυμνασίου στην Βουλή</a></h1>
+![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKt6L62VkODl3-88w-uv6R0pjy5JnrB6alkW7tyQvSEQ1iHREo) 
+Η εκδρομή του 4ου Γυμνασίου στην βουλή με κόμικς από  
+_την μαθήτρια Κωνσταντίνα Μπότση Γ3_ 
+<iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3MWJhQXRPX0NMbkU/preview" width="500"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob088.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob088.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

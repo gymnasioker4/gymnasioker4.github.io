@@ -1,28 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob067.md">Ερωτήσεις Οξέα βάσεις άλατα- εξουδετέρωση PH</a></h1>
-![](http://scienceducationucy.wikispaces.com/file/view/image004.gif/394335140/image004.gif) 
-<iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSd0ZmUGFFMHFiODg/preview" width="640"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob067.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob067.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob066.md">Το σχολείο και η δημιουργικότητα</a></h1>
-**Ο Κέν Ρομπινσον μιλά για το σχολείο που σκοτώνει την ** 
-**δημιουργικότητα και παραθέτει πιθανές λύσεις.** 
-<iframe allowfullscreen="" frameborder="0" height="315" mozallowfullscreen="" scrolling="no" src="http://embed.ted.com/talks/lang/el/ken_robinson_says_schools_kill_creativity.html" webkitallowfullscreen="" width="500"></iframe> 
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/zDZFcDGpL4U" width="500"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob066.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob066.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob065.md">Σημειώσεις ιστορίας</a></h1>
 ![](http://2.bp.blogspot.com/_I1FJP4mlhuI/TMYhtGLdjwI/AAAAAAAAAjQ/6rKAOSoJdU8/s320/history-id.jpg) 
 [Όλες οι επαναληπτικες ερωτήσεις της ιστορίας βρίσκονται εδω](http://gymnasioker4.referata.com/)
@@ -137,6 +113,30 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob050.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob050.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob049.md">Παλιό Αναγνωστικό Α΄ Δημοτικού</a></h1>
+![](http://www.freeweird.com/wp-content/uploads/2010/12/alfavitario.jpg) 
+**Τα βιβλία που δυστυχώς χάθηκαν...δείτε το βίντεο** 
+<iframe allowfullscreen="" frameborder="0" height="344" src="//www.youtube.com/embed/lMrtrGMiUos" width="459"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob049.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob049.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob048.md">Αλήθειες που πονάνε - Βιντεο 26/7/13 Συγκέντρωση ΟΛΜΕ στο υπ.Οικονομικών</a></h1>
+![](http://www.patrisnews.com/sites/default/files/field/news/image/olme_greece.jpg) 
+<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="320" height="266" src="https://www.blogger.com/video.g?token=AD6v5dy3p7lxb3KTiuSrhh3WKpFqix03JnNItZzCdEc2o9CK1y8Ra6ItOWybECQnln_i2-wTUOurVeKXkVQ7hDNgIQ" class="b-hbp-video b-uploaded" frameborder="0"></iframe> 
+Το ξέσπασμα της Κωνσταντίνας Γ., εκπαιδευτικού στο ΕΠΑΣ Ιλίου, κατά τη διάρκεια της συγκέντρωσης που πραγματοποίησε η ΟΛΜΕ στο υπ.Οικονομικών ενάντια στις απολύσεις και τα κλεισίματα σχολείων.
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob048.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob048.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

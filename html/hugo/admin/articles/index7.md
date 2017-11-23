@@ -1,31 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob089.md">Λογοτεχνικός διαγωνισμός του 4ου Γυμνασίου Κέρκυρας</a></h1>
-[![](http://2.bp.blogspot.com/_f4VyuGJXWZQ/TAZfhSuk8iI/AAAAAAAAAR8/b7_BZ2XBL9w/s200/literature.jpg)](http://2.bp.blogspot.com/_f4VyuGJXWZQ/TAZfhSuk8iI/AAAAAAAAAR8/b7_BZ2XBL9w/s1600/literature.jpg) 
-ΑΝΑΚΟΙΝΩΣΗ ΑΠΟΤΕΛΕΣΜΑΤΩΝ 
-1ου ΛΟΓΟΤΕΧΝΙΚΟΥ ΔΙΑΓΩΝΙΣΜΟΥ 
-4ου Γυμνασίου Κέρκυρας 
-Ο λογοτεχνικός διαγωνισμός του 4ου Γυμνασίου Κέρκυρας έδειξε ένα άλλο πρόσωπο του σχολείου μας. Παρά τη μικρή συμμετοχή των μαθητών -κάποιοι δίστασαν ή είπαν ότι δεν πρόλαβαν- όλα τα έργα που
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob089.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob089.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob088.md">Η εκδρομή 4ου Γυμνασίου στην Βουλή</a></h1>
-![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKt6L62VkODl3-88w-uv6R0pjy5JnrB6alkW7tyQvSEQ1iHREo) 
-Η εκδρομή του 4ου Γυμνασίου στην βουλή με κόμικς από  
-_την μαθήτρια Κωνσταντίνα Μπότση Γ3_ 
-<iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3MWJhQXRPX0NMbkU/preview" width="500"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob088.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob088.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob087.md">Περιβαλλοντική συνεργασία με το γυμνάσιο Ορεστιάδας</a></h1>
 Περιβαλλοντική συνεργασία με το γυμνάσιο Ορεστιάδας μήνυμα  των καθηγητών του 4ου Γυμνασίου Κέρκυρας προς το σχολειό τους  
 επίσης διαφορές δραστηριότητες στο κήπο του  
@@ -123,6 +96,29 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob079.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob079.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob078.md">Το τεύχος Μαρτίου του Μαθητικού Περιοδικού</a></h1>
+![](http://1.bp.blogspot.com/-vUQy0uJGMkU/UVf88BXefkI/AAAAAAAABic/HdFkOxvFXfg/s1600/ddd.jpg) 
+<iframe frameborder="0" height="327" scrolling="no" src="https://skydrive.live.com/embed?cid=93EFE049DF9140DA&resid=93EFE049DF9140DA%219816&authkey=APOUsxpKsVoypEg&em=2" width="402"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob078.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob078.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob077.md">Περιβαλλοντική  εκδρομή  Λευκάδας (ΚΠΕ Σφακιωτών)</a></h1>
+![](http://www.hotelsline.gr/root/newhotel/maps/lefkada_map.jpg) 
+Ένα βίντεο που ετοίμασε η μαθήτρια Χριστίνα Στεργίου της Γ2 Τάξης  σχετικά με την περιβαλλοντική  εκδρομή στην Λευκάδα 
+[πατήστε ΕΔΩ](https://www.dropbox.com/s/b9b0itjxe567723/%CE%9B%CE%B5%CF%85%CE%BA%CE%AC%CE%B4%CE%B1%203.wmv)
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob077.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob077.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

@@ -81,50 +81,6 @@ tags: Φυσική, Ασκήσεις Φυσικής
 <hr>
 <br><br><br>
 </div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/docs/07-04-2017vffvfed3333opy.md">Homepage666</a></h1>
-
-
-## Kalimera 
-frfrfer dd dd d vfvvvvvv    yyyyyyyyyddd
-
-> vvvvv   
-> ferfref    
-> erererere
-
-> $$\sum_{i=0}^n i^2 = rac{(n^2+n)(2n+1)}{6}$$
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
-
-
-yhrthttrrrrrrrr
-<br>
-<div class='readmore'>
-Posted: 17-6-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/docs/07-04-2017vffvfed3333opy.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/docs/07-04-2017vffvfed3333opy.md&cmd=open">edit</a>
-tags: 
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/eleni/xxxtest.md">Homepageeeeeeeeeeeeeeeeee</a></h1>
-
-
-## Kalimera 
-frfrfervfvvvvvv    
-vvvvv   
-ferfref    
-
-
-$$\sum_{i=0}^n i^2 = rac{(n^2+n)(2n+1)}{6}$$
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
-<br>
-<div class='readmore'>
-Posted: 17-4-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/eleni/xxxtest.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/eleni/xxxtest.md&cmd=open">edit</a>
-tags: 
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/eleni/phyA.md">Blog Homepage</a></h1>
 
 
@@ -144,43 +100,38 @@ tags:
 <hr>
 <br><br><br>
 </div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/eleni/07-09-2015edene.md">Homepage</a></h1>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/ain/phyA.md">Blog Homepage</a></h1>
 
 
-## Kalimera 
-frfrfervfvvvvvv    
-vvvvv   
-ferfref    
+
+# ΘΕΩΡΙΑ 1ης ΓΥΜΝΑΣΙΟΥ στην ΦΥΣΙΚΗ
+
+## Φυσικά Μεγέθη
 
 
-$$\sum_{i=0}^n i^2 = rac{(n^2+n)(2n+1)}{6}$$
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
+Για να μπορέσουμε να περιγράψουμε τα φυσικά φαινόμενα ορίζουμε έννοιες μετρήσιμες οι όποιες ονομάζονται φυσικά μεγέθη.
+>Π.χ. για να μπορέσουμε να πούμε ποσό ψυχρό η ποσό θερμό είναι ένα σώμα εισάγουμε την έννοια-φυσικό μέγεθος
 <br>
 <div class='readmore'>
 Posted: 17-4-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/eleni/07-09-2015edene.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/eleni/07-09-2015edene.md&cmd=open">edit</a>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/phyA.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/phyA.md&cmd=open">edit</a>
 tags: 
 <hr>
 <br><br><br>
 </div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/eleni/xxxtest2.md">Ok ddd</a></h1>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/ain/x.md">xxx</a></h1>
+dddhhh
+eeeeeeeeeee
+eeeeeeee
+# test ain pagex
 
-# eeeee
+ήταν ένα φαινόμενο τροπικού είδους που αναπτύχθηκε στα ύδατα της Μεσογείου και περιλάμβανε ένα τείχος νεφών, όπως οι τυφώνες, αναφέρει η αμερικανική Υπηρεσία για τους Ωκεανούς
 
-## dddd
-111αααα=ασασασασασ   33333333333333
-γφγφγ   γ
-44444444    
-44444444445555  
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/paseuiP5xn0" frameborder="0" allowfullscreen></iframe>
-    
-			
+Πηγή: Bloomberg: Φαινόμενο τροπικού είδους η καταιγίδα που προκάλεσε 21 θανάτους στην
 <br>
 <div class='readmore'>
-Posted: 12-2-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/eleni/xxxtest2.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/eleni/xxxtest2.md&cmd=open">edit</a>
+Posted: 17-06-2017
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/x.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/x.md&cmd=open">edit</a>
 tags: 
 <hr>
 <br><br><br>
@@ -191,6 +142,26 @@ tags:
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob156.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob156.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob155.md">Ταξίδι στο σύμπαν</a></h1>
+<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="320" height="266" src="https://www.youtube.com/embed/17jymDn0W6U?feature=player_embedded" frameborder="0"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob155.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob155.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob154.md">Το γυμνάσιο μας</a></h1>
+[![](http://2.bp.blogspot.com/-1mvn1ipZ63k/UH_uWSZOOSI/AAAAAAAAAkM/YMsOqHxcr2U/s400/Korfu+2010+507.jpg)](http://2.bp.blogspot.com/-1mvn1ipZ63k/UH_uWSZOOSI/AAAAAAAAAkM/YMsOqHxcr2U/s1600/Korfu+2010+507.jpg)
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob154.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob154.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

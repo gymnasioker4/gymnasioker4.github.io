@@ -1,27 +1,14 @@
 
 
-## Kalimera 
-frfrfer dd dd d vfvvvvvv    yyyyyyyyyddd
 
-> vvvvv   
-> ferfref    
-> erererere
+# ΘΕΩΡΙΑ 1ης ΓΥΜΝΑΣΙΟΥ στην ΦΥΣΙΚΗ
 
-> $$\sum_{i=0}^n i^2 = rac{(n^2+n)(2n+1)}{6}$$
-
-<br>
-<hr>
+## Φυσικά Μεγέθη
 
 
-## Kalimera 
-frfrfervfvvvvvv    
-vvvvv   
-ferfref    
-
-
-$$\sum_{i=0}^n i^2 = rac{(n^2+n)(2n+1)}{6}$$
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
+Για να μπορέσουμε να περιγράψουμε τα φυσικά φαινόμενα ορίζουμε έννοιες μετρήσιμες οι όποιες ονομάζονται φυσικά μεγέθη.
+>Π.χ. για να μπορέσουμε να πούμε ποσό ψυχρό η ποσό θερμό είναι ένα σώμα εισάγουμε την έννοια-φυσικό μέγεθος της θερμοκρασίας Θ η οποία μετριέται σε βαθμούς κελσίου C.
+Κατά ανάλογο τρόπο εισάγουμε και άλλες τέτοιες μετρήσιμες έννοιες-φυσικά μεγέθη.
 <br>
 <hr>
 
@@ -37,29 +24,97 @@ $$\sum_{i=0}^n i^2 = rac{(n^2+n)(2n+1)}{6}$$
 Κατά ανάλογο τρόπο εισάγουμε και άλλες τέτοιες μετρήσιμες έννοιες-φυσικά μεγέθη.
 <br>
 <hr>
+dddhhh
+eeeeeeeeeee
+eeeeeeee
+# test ain pagex
+
+ήταν ένα φαινόμενο τροπικού είδους που αναπτύχθηκε στα ύδατα της Μεσογείου και περιλάμβανε ένα τείχος νεφών, όπως οι τυφώνες, αναφέρει η αμερικανική Υπηρεσία για τους Ωκεανούς
+
+Πηγή: Bloomberg: Φαινόμενο τροπικού είδους η καταιγίδα που προκάλεσε 21 θανάτους στην Ελλάδα | iefimerida.gr   
+![link](/hugo/admin/img/arthrosi.jpg)
 
 
-## Kalimera 
-frfrfervfvvvvvv    
-vvvvv   
-ferfref    
+<br>
+<hr>
+# Baseplate
 
+<div class="meta subtitle">
+Beautiful documents, no pain
+</div>
 
-$$\sum_{i=0}^n i^2 = rac{(n^2+n)(2n+1)}{6}$$
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg)
+Baseplate is a dead-simple way to turn
+[markdown](http://daringfireball.net/projects/markdown/) files into
+beautifully-styled webpages without any external programs. Just drop files in a
+web-accessible directory and go. It uses
+[showdown.js](https://github.com/coreyti/showdown) to render markdown on the
 <br>
 <hr>
 
-# eeeee
+<br>
+<hr>
 
-## dddd
-111αααα=ασασασασασ   33333333333333
-γφγφγ   γ
-44444444    
-44444444445555  
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/paseuiP5xn0" frameborder="0" allowfullscreen></iframe>
-    
+<link rel=stylesheet type=text/css href='xblog.css'><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+
+## Περίληψη Θεωρίας Γ’ Γυμνασίου
+
+## O περιοδικός πίνακας
+
+![](/hugo/admin/images/periodikos.jpg)
+![](/hugo/admin/images/periodikos2.jpg)
+![](/hugo/admin/images/periodikos3.jpg)
+
+<br>
+<hr>
+### Παρατήρηση DNA
+
+**Υλικά**  
+1. Νερό  
+2. Καθαριστικο Πιάτων  
+3. Αλατι  
+4. Ασπρο Οινόπνευμα  
+5. Μπανάνα
+
+Πολτοποιουμε μιση μπανανα σε ενα πλαστικο σακουλακι
+
+<br>
+<hr>
+res=990ααςςγεργτγεdfwfrfwerfrf
+<br>
+<hr>
+
+
+[Βιβλίο Αγ. Πατρικίου](http://www.academia.edu/31990806/SAINTS_OF_BRITAIN_AND_IRELAND.pdf)
+<br>
+<hr>
+
+stylesheet type
+
+## Περίληψη Θεωρίας Γ’ Γυμνασίου
+
+## O περιοδικός πίνακας
+
+![](/hugo/admin/images/periodikos.jpg)
+![](/hugo/admin/images/periodikos2.jpg)
+![](/hugo/admin/images/periodikos3.jpg)
+
+<br>
+<hr>
+# heading 1
+## heading 2  
+
+* car
+* cat
+* table  
+
+![](/hugo/admin/img/metala2.jpg)    
+
+[http://www.google.com](http://www.google.com)
+<br>
+<hr>
+# gymnasioker4.github.io
+gymnasioker4.github.io  
+new line 22
+1111111111111111
 <br>
 <hr>

@@ -1,25 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob027.md"># Θέμα εργασίας: Βουλευτικές εκλογές 2015</a></h1>
-Πότε διεξάγονται οι εκλογές;Για ποιο λόγο οδηγηθήκαμε σε εκλογές;Είχε ολοκληρώσει την θητεία της η τελευταία κυβέρνηση;Ποια κόμματα συμμετέχουν στις εκλογές;Ποιοι θα ψηφίσουν στις εκλογές;Τι λένε οι δημοσκοπήσεις; 
-Αμανατίδου Αθηνά ΠΕ05-ΠΕ09
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob027.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob027.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob026.md">Εργασία στην Κοινωνική και Πολιτική Αγωγή για το Β΄τρίμηνο</a></h1>
-![](http://1.bp.blogspot.com/-FeClCljesps/VLGEKt98ImI/AAAAAAAAAKg/ulJ9QAfWqpA/s1600/school%2Bwork.jpg) 
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob026.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob026.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob025.md">Από την ημερίδα κατά του ρατσισμού</a></h1>
 ΑΠΟ ΤΗΝ ΗΜΕΡΙΔΑ ΚΑΤΑ ΤΟΥ ΡΑΤΣΙΣΜΟΥ 
 ![](http://2.bp.blogspot.com/-S4gf-fECgJg/VLd0jdzd2fI/AAAAAAAAAAM/1Yylf9DY7SU/s1600/%CE%97%CE%9C%CE%95%CE%A1%CE%99%CE%94%CE%91%2B%CE%9A%CE%91%CE%A4%CE%91%2B%CE%A4%CE%9F%CE%A5%2B%CE%A1%CE%91%CE%A4%CE%A3%CE%99%CE%A3%CE%9C%CE%9F%CE%A5.JPG)
@@ -124,6 +103,30 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob017.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob017.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob016.md">Εργασίες μαθητών πρότζεκτ 3ου τριμήνου - Τμήμα Α2</a></h1>
+![](http://4.bp.blogspot.com/-Rx1PoPZ34Pw/VTf4b7nUQFI/AAAAAAAAAUY/2lUlk87gBkM/s1600/ergasies%2Bmathitwn.jpg) 
+Στα πλαίσια του πρότζεκτ του 3ου τριμήνου "Η άσκηση στη ζωή μου: αθλητισμός και χορός" οι μαθητές του τμήματος Α2 παρέδωσαν τις εξής εργασίες: 
+[Ομάδα Μπάσκετ](https://drive.google.com/open?id=1mSgrnaiFIqwkNgMQLZn_XzxZ2IVYL89k-xuNxAVIcXc&authuser=0)[Ομάδα Ποδοσφαίρου](https://drive.google.com/open?id=176NP5kMqUQ-84rErPbx736nBWg-wTS7yvFfrajTC5jY&authuser=0)[Ομάδα Χάντμπολ](https://docs.google.com/presentation/d/16FXk4uK7bnEc_HtL1rqx1cdSgQq2amcBhFoELb6NfHw/edit?usp=sharing)[Ομάδα Χορού](https://docs.google.com/presentation/d/1AtHHRakxYms1CmOondWJJ4S39CusDf5uKEnW2DhnBas/edit?usp=sharing) 
+Αμανατίδου Αθηνά ΠΕ05-ΠΕ09
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob016.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob016.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob015.md">Εργασίες μαθητών πρότζεκτ 2ου τριμήνου - Τμήμα Α4</a></h1>
+**Εργασίες των μαθητών- Τμήμα Α4**** Πρότζεκτ 2ου τριμήνου**Οι μαθητές στη διάρκεια του 2ου τριμήνου δημιούργησαν τα δικά τους κόμικς, εμπνεόμενοι από την πληροφόρηση που είχαν σχετικά με την ασφαλή χρήση του διαδικτύου. Διαβάστε εδώ τις ιστορίες των μαθητών μας. 
+1η Ομάδα: Μπότση Μαρουσώ, Ριγανά, Σανακίδης, Στεργίου, Φωτεινός
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob015.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob015.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

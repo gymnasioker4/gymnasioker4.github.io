@@ -5,9 +5,9 @@ echo ''
 #to do 
 #correct images when click tags 
 #correct firstimage function to get only one image
-#correct edit.sh to display images
+#correct escape function for index file
 #split index and tag files with csplit
-#
+#escape tagas folder
 ##################
 path=/home/ain/pCloudDrive/html/hugo/admin/articles
 linuxpath=/home/ain/pCloudDrive/html/hugo/admin/articles
@@ -18,24 +18,34 @@ webpath=/hugo/admin/articles
 
 
 #######
-echo "Generating Site...1ρ<br><br>"
+echo "Generating Site...<br><br>"
 sortPosts(){
 IFS='
 '
+echo "Sorting..."
+#find $path
+
 for file in `find $path`
 do
-#echo $file
+#echo "$file"
 date=`getVarValue $file "date"`
+
 if [ "$date" = "" ]
 then
-continue
+echo "11-11-2000""###""$file"
+#continue
 else
-#title=`getVarValue $file "title"`
-#echo "$date""###""$file"
+
+
 echo "$date""###""$file"
-#echo "<br>"
 fi
-done | sort -r -b -k 1.9,1.10 -k 1.4,1.5 -k 1.1,1.2| sed 's/.*###//' > "$path""/sortedposts.hmtl" 
+
+
+
+done | sort -r -b -k 1.9,1.10 -k 1.4,1.5 -k 1.1,1.2 | sed 's/.*###//' > "$path""/sortedposts.hmtl" 
+
+
+ 
 #cat "$path""/sortedposts.hmtl"
 		
 }
@@ -155,7 +165,7 @@ echo $t | sort -b -k 1.9,1.10 -k 1.4,1.5 -k 1.1,1.2
 }
 
 #testfunc
-sortPosts
+#######sortPosts
 #
 #createTagLinks
 #echo "xxdddddddddddddd77"
@@ -371,6 +381,7 @@ echo "<br>" >> $path"/tagas/""$tag"".md"
 echo "<hr>">> $path"/tagas/""$tag"".md"
 
 createFooterTag "$file" $path"/tagas/""$tag"".md"
+
 #echo "$text"
 #echo "<br>=====">> $path"/tagas/"$tag."md"
 
@@ -396,21 +407,46 @@ fi
 IFS='
 '
 }
-
 escapeFiles(){
-file=""$1
+file="$1"
+tmpfile=`echo "$file" | sed -r 's!^.*/([^/]*)$!\1!g'`
+
+ext=`echo "$tmpfile"|cut -d'.' -f2`
+case "$ext" in
+css|jpg|png|html|sh|tmp|js|jpeg) echo "bypass"
+ 
+;;
+*) echo ""
+;;
+esac
+
+case "$tmpfile" in
+index*) echo "bypass"
+ 
+;;
+*) echo ""
+;;
+esac
+
+
+
+
+}
+
+xescapeFiles(){
+file="$1"
 ext=`echo "$file"|cut -d'.' -f2`
-case $ext in
-css|jpg|png|html|sh|tmp) echo ""
-continue
+case "$ext" in
+css|jpg|png|html|sh|tmp) echo "bypass"
+#continue
 ;;
 *) echo ""
 ;;
 esac
 #################################
-case $file in
-$path"/index"*".md") echo ""
-continue
+case "$file" in
+$path"/index"*".md") echo "bypass"
+#continue
 ;;
 *) echo ""
 ;;
@@ -460,14 +496,60 @@ then
 :
 continue
 fi
+#===========================
+#check if file is tagas folder and escape if it is
+#===========================
+res=`echo "$file" | sed -r 's!^.*/tagas/.*$!bypass!g'`
+if [ "$res" = "bypass" ]
+then
+continue
+fi
 
+#===========================
+#check if file is draft _filename and escape if it is
+#===========================
+#res=`echo "$file" | sed -r 's!^.*/_[^/]*$!bypass!g'`
+#if [ "$res" = "bypass" ]
+#then
+#:
+#continue
+#fi
 
 #################################
 #===========================
 #check if file has not wanted extension
 #===========================
 echo "escapeFiles<br>"
-escapeFiles "$file"
+#res=`escapeFiles "$file"`
+
+
+
+echo "www""$file""<br>"
+t=`echo "$file" | sed -r 's!^.*/([^/]*)$!\1!g'`
+case "$t" in
+index*|test*|_*) echo "bypass"
+continue
+;;
+*) echo "$t"
+;;
+esac
+
+#ext=`echo "$t"|cut -d'.' -f2`
+ext=`echo "$t" | sed -r 's!^.*\.([^.]*)$!\1!g'`
+echo "ask$lext"
+echo "$ext"
+echo "<br>"
+case "$ext" in
+#txt|css|jpg|png|html|sh|tmp|js|jpeg) echo "bypass"
+md) echo "bypass"
+#continue
+;;
+*) echo "$t"
+continue
+;;
+esac
+
+ 
 echo "============<br>"
 
 #===========================
@@ -547,8 +629,8 @@ echo "============<br>"
 
 }
 
-
-
+sortPosts
+ #exit
 listArticles
 exit
 

@@ -1,27 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob144.md">Πηγές Βιβλιογραφία - Τεχνολογία Α & Β Γυμνάσιου</a></h1>
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79SW02xVYU89OF9_Z1HIS2Mq6aZjb0ihBXmR6zGK937-sQZUb) 
-**ΠΡΟΤΕΙΝΟΜΕΝΗ  ΒΙΒΛΙΟΓΡΑΦΙΑ**Βάμβακος  Θ., (1981) «Ηλεκτρικές Οικιακές Συσκευές», Εκδόσεις ΚύκνοςΓεωργόπουλος Α.,(2006) «Γη. Ένας Μικρός και Εύθραυστος Πλανήτης», Εκδόσεις GutenbergΔραμουντάνης, Ν., (2007), Τεχνολογία Α΄  Γυμνασίου, Εκδόσεις 
-GUTENBERGΤόλογλου Στ., (1998)«Ηλεκτρικές Οικιακές Συσκευές», Εκδόσεις ΙΩΝ**ΙΣΤΟΣΕΛΙΔΕΣ** [www.cres.gr](http://www.cres.gr/)http://ancient-civil-energymanagement.wikidot.com/aeras (ΑΡΧΑΙΟΙ ΠΟΛΙΤΙΣΜΟΙ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΕΝΕΡΓΕΙΑΣ) (ΟΙΚΟΛΟΓΙΚΗ ΚΙΝΗΣΗ ΠΑΤΡΑΣ)[www.oikipa.gr](http://www.oikipa.gr/)[www.greenpeace.org](http://www.greenpeace.org/) [www.electrocycle.gr](http://www.electrocycle.gr/) [www.econews.gr](http://www.econews.gr/) [www.syskeves.gr](http://www.syskeves.gr/) 
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob144.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob144.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob143.md">Κλίμακα ΜΟHS</a></h1>
-[![](http://2.bp.blogspot.com/_2m5PRBmIJl4/TThZIAQwGDI/AAAAAAAAAC4/CTA0Op31OlQ/s200/mohs+scale+of+hardness.gif)](http://2.bp.blogspot.com/_2m5PRBmIJl4/TThZIAQwGDI/AAAAAAAAAC4/CTA0Op31OlQ/s1600/mohs+scale+of+hardness.gif) 
-<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="320" height="266" src="https://www.youtube.com/embed/VfZ1kP4ErKc?feature=player_embedded" frameborder="0"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob143.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob143.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob142.md">Εργασιες μαθητων - όξινη βροχή</a></h1>
 ![](http://4.bp.blogspot.com/-XcIGdof6mCM/UHtfTeGBRLI/AAAAAAAAAW8/UXVbtb4kW8Y/s200/tuesday.gif) 
 [Όξινη Βροχή](https://docs.google.com/file/d/0B_I1oSy0BsA3NThWWTJsSlVwTGc/preview)
@@ -112,6 +89,28 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob134.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob134.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob133.md">Οικιακή Οικονομία - Α' Γυμνασίου</a></h1>
+![](http://3.bp.blogspot.com/-esbkZeSLYpo/VC-kt_UIyMI/AAAAAAAAAFI/GqXPNMXWRxI/s1600/%CE%9F%CE%B9%CE%BA%CE%B9%CE%B1%CE%BA%CE%AE%2B%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1.jpg) 
+[Το wiki της Α΄Γυμνασίου για το μάθημα της Οικιακής Οικονομίας](http://michalopoulouag.wikispaces.com/)
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob133.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob133.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob132.md">Οικιακή Οικονομία- Β΄Γυμνασίου</a></h1>
+![](http://blogs.sch.gr/geapostoli/files/2011/10/mediterranean_diet_food_wine_pyramid-copyGR_2.gif) 
+[Το wiki της Β΄Γυμνασίου για το μάθημα της Οικιακής Οικονομίας](http://michalopouloubg.wikispaces.com/)
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob132.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob132.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

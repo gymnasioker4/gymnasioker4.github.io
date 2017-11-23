@@ -1,20 +1,25 @@
 ---
-date: 17-09-2022
-
+title: xxx
+date: 17-06-2017
 ---
-aqqaqaqσδεςδεδδ   
-εδεςδεςδεςδ   
-δεςδεςδες   
-δεςδεςδεςδςεδςεδεςδεςδεςδεςδ   
-![](/hugo/admin/img/arthrosi.jpg)
-# gergergtrgetgergerg
+dddhhh
+eeeeeeeeeee
+eeeeeeee
+# test ain pagex
 
-\` (-b  - sqrt(b^2-4ac))/(2a)\`
-\` (-b  - sqrt(b^2-4ac))/(2a)\`   .
+ήταν ένα φαινόμενο τροπικού είδους που αναπτύχθηκε στα ύδατα της Μεσογείου και περιλάμβανε ένα τείχος νεφών, όπως οι τυφώνες, αναφέρει η αμερικανική Υπηρεσία για τους Ωκεανούς
 
-[/hugo/admin/img/χρηστος.pdf](/hugo/admin/img/χρηστος.pdf)
+Πηγή: Bloomberg: Φαινόμενο τροπικού είδους η καταιγίδα που προκάλεσε 21 θανάτους στην Ελλάδα | iefimerida.gr   
+![link](/hugo/admin/img/arthrosi.jpg)
+
+
+\` (-b  - sqrt(b^2-4ac))/(2a)\`   
+\` (-b  - sqrt(b^2-4ac))/(2a)\`  
+\`3/4\`   
+[link](/hugo/admin/img/χρηστος.pdf)
 
 $$  
 i^2 
 $$ 
 
+![](/hugo/admin/img/ekremes.jpg)

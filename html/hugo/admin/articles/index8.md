@@ -1,27 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob078.md">Το τεύχος Μαρτίου του Μαθητικού Περιοδικού</a></h1>
-![](http://1.bp.blogspot.com/-vUQy0uJGMkU/UVf88BXefkI/AAAAAAAABic/HdFkOxvFXfg/s1600/ddd.jpg) 
-<iframe frameborder="0" height="327" scrolling="no" src="https://skydrive.live.com/embed?cid=93EFE049DF9140DA&resid=93EFE049DF9140DA%219816&authkey=APOUsxpKsVoypEg&em=2" width="402"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob078.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob078.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob077.md">Περιβαλλοντική  εκδρομή  Λευκάδας (ΚΠΕ Σφακιωτών)</a></h1>
-![](http://www.hotelsline.gr/root/newhotel/maps/lefkada_map.jpg) 
-Ένα βίντεο που ετοίμασε η μαθήτρια Χριστίνα Στεργίου της Γ2 Τάξης  σχετικά με την περιβαλλοντική  εκδρομή στην Λευκάδα 
-[πατήστε ΕΔΩ](https://www.dropbox.com/s/b9b0itjxe567723/%CE%9B%CE%B5%CF%85%CE%BA%CE%AC%CE%B4%CE%B1%203.wmv)
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob077.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob077.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob076.md">Ερωτήσεις Κεφ.4 Γ γυμνασίου</a></h1>
 ![](http://www.myhoroscope.gr/articles/images/pendulum1.jpg) 
 <iframe height="3333" src="https://docs.google.com/file/d/0B4T-U5-yEriSRW1PSEJnei14cjQ/preview" width="500"></iframe>
@@ -116,6 +93,30 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob068.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob068.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob067.md">Ερωτήσεις Οξέα βάσεις άλατα- εξουδετέρωση PH</a></h1>
+![](http://scienceducationucy.wikispaces.com/file/view/image004.gif/394335140/image004.gif) 
+<iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSd0ZmUGFFMHFiODg/preview" width="640"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob067.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob067.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob066.md">Το σχολείο και η δημιουργικότητα</a></h1>
+**Ο Κέν Ρομπινσον μιλά για το σχολείο που σκοτώνει την ** 
+**δημιουργικότητα και παραθέτει πιθανές λύσεις.** 
+<iframe allowfullscreen="" frameborder="0" height="315" mozallowfullscreen="" scrolling="no" src="http://embed.ted.com/talks/lang/el/ken_robinson_says_schools_kill_creativity.html" webkitallowfullscreen="" width="500"></iframe> 
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/zDZFcDGpL4U" width="500"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob066.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob066.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

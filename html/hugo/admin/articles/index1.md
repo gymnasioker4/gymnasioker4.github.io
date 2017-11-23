@@ -1,24 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob155.md">Ταξίδι στο σύμπαν</a></h1>
-<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="320" height="266" src="https://www.youtube.com/embed/17jymDn0W6U?feature=player_embedded" frameborder="0"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob155.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob155.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob154.md">Το γυμνάσιο μας</a></h1>
-[![](http://2.bp.blogspot.com/-1mvn1ipZ63k/UH_uWSZOOSI/AAAAAAAAAkM/YMsOqHxcr2U/s400/Korfu+2010+507.jpg)](http://2.bp.blogspot.com/-1mvn1ipZ63k/UH_uWSZOOSI/AAAAAAAAAkM/YMsOqHxcr2U/s1600/Korfu+2010+507.jpg)
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob154.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob154.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob153.md">Παρουσίαση Πειραμάτων από Μαθητές του 4ου Γυνασίου</a></h1>
 [![](http://1.bp.blogspot.com/-XUA9wiFnTxc/UHbBr6ij1XI/AAAAAAAAAic/6164AXvjr2k/s200/lab1.jpg)](http://1.bp.blogspot.com/-XUA9wiFnTxc/UHbBr6ij1XI/AAAAAAAAAic/6164AXvjr2k/s1600/lab1.jpg) 
 <iframe height="360" src="https://docs.google.com/file/d/0B_I1oSy0BsA3NHZUVHBUcjNoSDg/preview" width="480"></iframe>
@@ -114,6 +94,29 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob145.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob145.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob144.md">Πηγές Βιβλιογραφία - Τεχνολογία Α & Β Γυμνάσιου</a></h1>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79SW02xVYU89OF9_Z1HIS2Mq6aZjb0ihBXmR6zGK937-sQZUb) 
+**ΠΡΟΤΕΙΝΟΜΕΝΗ  ΒΙΒΛΙΟΓΡΑΦΙΑ**Βάμβακος  Θ., (1981) «Ηλεκτρικές Οικιακές Συσκευές», Εκδόσεις ΚύκνοςΓεωργόπουλος Α.,(2006) «Γη. Ένας Μικρός και Εύθραυστος Πλανήτης», Εκδόσεις GutenbergΔραμουντάνης, Ν., (2007), Τεχνολογία Α΄  Γυμνασίου, Εκδόσεις 
+GUTENBERGΤόλογλου Στ., (1998)«Ηλεκτρικές Οικιακές Συσκευές», Εκδόσεις ΙΩΝ**ΙΣΤΟΣΕΛΙΔΕΣ** [www.cres.gr](http://www.cres.gr/)http://ancient-civil-energymanagement.wikidot.com/aeras (ΑΡΧΑΙΟΙ ΠΟΛΙΤΙΣΜΟΙ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΕΝΕΡΓΕΙΑΣ) (ΟΙΚΟΛΟΓΙΚΗ ΚΙΝΗΣΗ ΠΑΤΡΑΣ)[www.oikipa.gr](http://www.oikipa.gr/)[www.greenpeace.org](http://www.greenpeace.org/) [www.electrocycle.gr](http://www.electrocycle.gr/) [www.econews.gr](http://www.econews.gr/) [www.syskeves.gr](http://www.syskeves.gr/) 
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob144.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob144.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob143.md">Κλίμακα ΜΟHS</a></h1>
+[![](http://2.bp.blogspot.com/_2m5PRBmIJl4/TThZIAQwGDI/AAAAAAAAAC4/CTA0Op31OlQ/s200/mohs+scale+of+hardness.gif)](http://2.bp.blogspot.com/_2m5PRBmIJl4/TThZIAQwGDI/AAAAAAAAAC4/CTA0Op31OlQ/s1600/mohs+scale+of+hardness.gif) 
+<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="320" height="266" src="https://www.youtube.com/embed/VfZ1kP4ErKc?feature=player_embedded" frameborder="0"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob143.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob143.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

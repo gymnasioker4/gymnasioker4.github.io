@@ -2,8 +2,97 @@
 echo "Content-type: text/html"
 echo ''
 path=/home/ain/pCloudDrive/html/hugo/admin/articles
-
+ 
 t="%CE%B1%CE%B1%CE%B1dsdsdsdssds%3Ddsdsdsdsds "
+
+checkAuthor(){
+file="$1"
+#echo $REMOTE_USER
+userpath="gymnasioker4.github.io-master/"$REMOTE_USER
+#echo $file
+tmppath=`echo "$file" | sed -r 's!('"gymnasioker4.github.io-master"'/[^/]*).*!\1!g'`
+
+if [ "$userpath" = "$tmppath" ]
+then
+:
+else
+echo "You are the wrong USER and you are not allowed to edit or view"
+exit
+
+fi
+
+}
+
+
+
+
+
+
+listAuthorFiles(){
+echo '<button id="toggle">show/hide panel</button>
+<hr>
+<div id="upload">'		
+IFS='
+'
+#echo "eelll"
+#echo "<br>"
+
+file="$1"
+#echo $file 
+echo 'put images as ![](/hugo/admin/img/IMAGENAME)'
+echo "<br><br>"
+dir=`echo "$file" | sed -r 's!/[^/]*$!!g'`
+# echo $dir	
+echo "<b>my uploaded files (upload with english names)</b><br>"
+for f in `ls  /home/ain/pCloudDrive/html/hugo/admin/img`
+do
+echo '<a href=' "/hugo/admin/img/""$f"'>'"/hugo/admin/img/""$f"'</a>'
+echo "..."
+done
+echo "<br><br>"
+echo '<form id='myform'  action="upload.sh" target="SHOW" method="POST"  enctype="multipart/form-data">
+<input    type="file" name="searchitems" value="aa" id="textinput"   >
+<button type="sumbit" id="buttoninput">Go!</button>
+</form>'
+
+echo "<hr><b>my posts</b><br>"
+for post in `ls $path"/"$dir`
+do
+#echo $post
+#echo "<br>"
+if [ -d $path"/"$dir"/"$post ]
+then
+#pathfile="$dir""/""$post"
+#echo $pathfile
+#ls $path"/"$dir"/"$post
+#echo "<br>"
+ :
+else
+
+pathfile="$dir""/""$post"
+linktoedit='<a class="editlink" target="_blank" href="'\
+"/hugo/admin/scripts/edit.sh?file=""$pathfile""&cmd=open"'">'"$post"'</a>'
+
+#echo "...Click to edit Post...""$linktoedit"
+echo "...""$linktoedit"
+
+fi
+
+
+done
+
+
+
+#exit
+echo '</div>'	
+}
+
+
+
+
+
+
+
 decode(){
 str=$1
 echo "$str" | sed 's@+@ @g;s@%@\\x@g' | xargs -0 printf "%b"
@@ -13,7 +102,7 @@ echo "$str" | sed 's@+@ @g;s@%@\\x@g' | xargs -0 printf "%b"
 #exit
 
 
-rawurldecode() {
+xrawurldecode() {
 
   # This is perhaps a risky gambit, but since all escape characters must be
   # encoded, we can replace %NN with \xNN and pass the lot to printf -b, which
@@ -42,6 +131,7 @@ cat << EOF
 <script type="text/javascript" src="http://lab.lepture.com/editor/marked.js"></script>
 <script src=../js/edit.js></script>
 
+<link rel="stylesheet" href="../css/edit.css" />
 
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
@@ -50,10 +140,10 @@ cat << EOF
 EOF
 	
 }
-urldecode() { : "${*//+/ }"; echo -e "${_//%/\\x}"; }
+xurldecode() { : "${*//+/ }"; echo -e "${_//%/\\x}"; }
 
 
-decode2(){
+xdecode2(){
 	
 	hexstring=$1
 	#hexstring=`echo "$hexstring" | tr '+' ' '`
@@ -62,7 +152,7 @@ decode2(){
 	#echo '\n'	
 	
 }
-decode22(){
+xdecode22(){
 	
 	hexstring=$1
 	#hexstring=`echo "$hexstring" | tr '+' ' '`
@@ -72,13 +162,21 @@ decode22(){
 	
 }
 listPosts(){
-	post=$1
+	post="$1"
 	#echo $post
 	#echo "<br>"
 #ls -t $path
 	
 IFS='
 '
+
+posttmp="$post"
+posttmp=`echo "$posttmp" | sed -r 's!'"/home/ain/pCloudDrive/html"'!!g'`
+echo '<a href='"$posttmp"'>'"View"'</a>'
+
+
+
+
 echo "<select id='myselect' name="file">"
 echo "<option selected value="$post">"$post"</option>"
 echo "</select>"
@@ -97,7 +195,7 @@ post=$2
 cat << EOF
 
 
-
+<div class="editor-wrapper">
 
 <form id='myform' id="myform" action="edit.sh" method="post">
 
@@ -109,12 +207,12 @@ cat << EOF
 <input type="submit" id="save" name="cmd" value="save">
 <input type="submit" id="open" name="cmd" value="open">
 
-<textarea id=mytextarea type="text" name="markupText" rows="4" cols="50">$textareacontent</textarea>
+<textarea id=mytextarea type="text" name="markupText" rows="400" cols="50">$textareacontent</textarea>
 <br>
 
 
 </form>
-
+</div>
 <div id=render style="background-color:#F5F5DC;z-index: -111";>
 
 
@@ -188,10 +286,10 @@ if [ $count -eq "1" ];then
 #echo '<br>'
 
 file=`echo "$pair"|cut -d'=' -f2`	
-echo '<br>'
+##echo '<br>'
 #echo $file
 #echo '======='
- echo '<br>'
+ ##echo '<br>'
  #exit
 fi
 
@@ -219,7 +317,6 @@ fi
 
 
 done
-
 
 
 
@@ -258,8 +355,19 @@ runJQUERY
 case $cmd in
 
 open)
+#echo "========"
+#echo $file
+#echo "========"
+checkAuthor "$file"
+
+#exit
+
+
+listAuthorFiles "$file"
+
 #echo "eeeeeeeeeeeeeeeeeeeeex"
 x=`cat $path"/"$file`
+		
 showEditor "$x" "$path"/"$file"
 ;;
 
@@ -268,13 +376,18 @@ save)
 #echo $file
 #echo "===="
 
-
+#tmpfile=`mktemp --tmpdir=./tmp`
 showEditor "Your Post has been Saved...Go to the blog to edit another"  
+ 
+ 
+#echo $markText
+#exit
 
-decode $markText > $file
-ls hugo/admin
-ls hugo/admin
-sh hugo/admin/scripts/list.sh > $path"/"tmp.tmp
+decode "$markText" > $file
+sed -i 's/\r//g' $file
+#ls hugo/admin
+#ls hugo/admin
+#######sh hugo/admin/scripts/list.sh > $path"/"tmp.tmp
 #echo $?
 #echo $file".html"
 exit

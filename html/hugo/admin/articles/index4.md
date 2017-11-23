@@ -1,29 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob122.md">Ύλη Διαγωνισμάτων Α΄Τριμήνου 2014- Γαλλικά Α΄Β΄Γ΄Τάξεις</a></h1>
-![](http://2.bp.blogspot.com/-wxNZk0Tvsgg/TpsaE6FJvuI/AAAAAAAADYA/D_2ynPoD5OI/s400/teststress1.gif) 
-Ύλη γαλλικών Α΄τριμήνου 2014 
-**Α΄τάξη**Livre : p.22, 26-28, 30-33Cahier : p.12, 19, 20, 24 
-**Β΄τάξη**Livre : p.46-54Cahier : p.38-48+Dictée: p. 46 ''Mon papi est grand comme...petite et mince''                   p.55 "Ma cousine s'appelle Amélie...parfois elle est trop bavarde." 
-**Γ΄τάξη**Livre :
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob122.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob122.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob121.md">Το Αόρατο Ποτήρι</a></h1>
-![](http://www.lazaridis-k.gr/images/1004016.jpg) 
-<iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3bjN6bFlucjRhZTg/preview" width="500"></iframe>
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob121.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob121.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob120.md">Τήξη γυαλιού</a></h1>
 ![](http://www.dentnews.net/wp-content/uploads/2010/10/break-glass.jpg) 
 <iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3dmtCQlA0OTlKWk0/preview" width="500"></iframe>
@@ -119,6 +94,28 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob112.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob112.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob111.md">Τι είναι η σχετικότητα;</a></h1>
+![](http://4.bp.blogspot.com/_phXPBsWnm5w/TLJMxr90Z8I/AAAAAAAAAEM/J27NbBs1M2U/s320/%C3%8E%C2%B5%C3%8F%EF%BF%BD%C3%8E%C2%BF%C3%8F%E2%80%9E%C3%8E%C2%B7%C3%8E%C2%BC%C3%8E%C2%B1%C3%8F%E2%80%9E%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%BF+%C3%8E%C2%BA%C3%8E%C2%B1%C3%8E%C2%BB%C3%8F%E2%82%AC%C3%8E%C2%B7.jpg) 
+<iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriScm9PWXZqeUl6WGs/preview" width="500"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob111.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob111.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob110.md">Ενέργεια Κυμάτων</a></h1>
+![](http://d32gzgewo0nbh1.cloudfront.net/wp-content/uploads/2012/10/USA-Marine-Power-Makes-Waves.jpg?2bf7cb) 
+<iframe allowfullscreen="" frameborder="0" height="344" src="http://www.youtube.com/embed/bEfrtAOMuvk?fs=1" width="459"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob110.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob110.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>

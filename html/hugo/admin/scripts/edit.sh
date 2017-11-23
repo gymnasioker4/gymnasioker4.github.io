@@ -39,14 +39,15 @@ IFS='
 
 file="$1"
 #echo $file 
-echo 'put images as ![](/hugo/admin/img/IMAGENAME)'
-echo "<br><br>"
+echo 'put images as ![](/hugo/admin/img/IMAGENAME)<br>'
+echo 'put links  as  [](/hugo/admin/img/IMAGENAME)<br>'
+echo "<br>"
 dir=`echo "$file" | sed -r 's!/[^/]*$!!g'`
 # echo $dir	
-echo "<b>my uploaded files (upload with english names)</b><br>"
+echo "<b>my uploaded files (upload filenames without spaces)</b><br>"
 for f in `ls  /home/ain/pCloudDrive/html/hugo/admin/img`
 do
-echo '<a href=' "/hugo/admin/img/""$f"'>'"/hugo/admin/img/""$f"'</a>'
+echo '<a href=' "/hugo/admin/img/""$f"'>'"""$f"'</a>'
 echo "..."
 done
 echo "<br><br>"
@@ -259,8 +260,10 @@ esac
 #echo $DATA
 QUERY_STRING=$DATA
 #echo $QUERY_STRING
+#echo $QUERY_STRING
 
-QUERY_STRING=`decode $QUERY_STRING`
+
+			#QUERY_STRING=`decode $QUERY_STRING`
 
 #QUERY_STRING=`urldecode "$QUERY_STRING"`
 
@@ -318,6 +321,19 @@ fi
 
 done
 
+
+#echo "$file"
+#echo '<br>'
+
+file=`decode "$file"`
+cmd=`decode "$cmd"`
+#echo '<br>'
+
+#echo "$file"
+#echo '<br>'
+
+#echo "$markText"
+#echo '<br>'
 
 
 
@@ -384,6 +400,7 @@ showEditor "Your Post has been Saved...Go to the blog to edit another"
 #exit
 
 decode "$markText" > $file
+sed -i 's/\r//g' $file
 #ls hugo/admin
 #ls hugo/admin
 #######sh hugo/admin/scripts/list.sh > $path"/"tmp.tmp

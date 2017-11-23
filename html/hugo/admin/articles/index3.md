@@ -1,26 +1,4 @@
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob133.md">Οικιακή Οικονομία - Α' Γυμνασίου</a></h1>
-![](http://3.bp.blogspot.com/-esbkZeSLYpo/VC-kt_UIyMI/AAAAAAAAAFI/GqXPNMXWRxI/s1600/%CE%9F%CE%B9%CE%BA%CE%B9%CE%B1%CE%BA%CE%AE%2B%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1.jpg) 
-[Το wiki της Α΄Γυμνασίου για το μάθημα της Οικιακής Οικονομίας](http://michalopoulouag.wikispaces.com/)
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob133.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob133.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob132.md">Οικιακή Οικονομία- Β΄Γυμνασίου</a></h1>
-![](http://blogs.sch.gr/geapostoli/files/2011/10/mediterranean_diet_food_wine_pyramid-copyGR_2.gif) 
-[Το wiki της Β΄Γυμνασίου για το μάθημα της Οικιακής Οικονομίας](http://michalopouloubg.wikispaces.com/)
-<br>
-<div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob132.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob132.md&cmd=open">edit</a>
-tags: example1, example2
-<hr>
-<br><br><br>
-</div>
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob131.md">Jouer en ligne!</a></h1>
 ![](http://www.ville.chateauguay.qc.ca/sites/default/files/evenement/jeux-video.jpg?1317315988) 
 [Παίξτε online στα γαλλικά!](http://www.jeux.fr/)
@@ -122,6 +100,31 @@ tags: example1, example2
 <div class='readmore'>
 Posted: 2011-01-01
 <a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob123.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob123.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob122.md">Ύλη Διαγωνισμάτων Α΄Τριμήνου 2014- Γαλλικά Α΄Β΄Γ΄Τάξεις</a></h1>
+![](http://2.bp.blogspot.com/-wxNZk0Tvsgg/TpsaE6FJvuI/AAAAAAAADYA/D_2ynPoD5OI/s400/teststress1.gif) 
+Ύλη γαλλικών Α΄τριμήνου 2014 
+**Α΄τάξη**Livre : p.22, 26-28, 30-33Cahier : p.12, 19, 20, 24 
+**Β΄τάξη**Livre : p.46-54Cahier : p.38-48+Dictée: p. 46 ''Mon papi est grand comme...petite et mince''                   p.55 "Ma cousine s'appelle Amélie...parfois elle est trop bavarde." 
+**Γ΄τάξη**Livre :
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob122.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob122.md&cmd=open">edit</a>
+tags: example1, example2
+<hr>
+<br><br><br>
+</div>
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob121.md">Το Αόρατο Ποτήρι</a></h1>
+![](http://www.lazaridis-k.gr/images/1004016.jpg) 
+<iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3bjN6bFlucjRhZTg/preview" width="500"></iframe>
+<br>
+<div class='readmore'>
+Posted: 2011-01-01
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob121.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob121.md&cmd=open">edit</a>
 tags: example1, example2
 <hr>
 <br><br><br>
