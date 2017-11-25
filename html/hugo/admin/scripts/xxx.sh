@@ -2,7 +2,9 @@
 echo "Content-type: text/html"
 echo ''
 
+echo "jjj"
 
+exit
 file="http://gymnasioker4.graeca.tk/hugo/admin/articles/tagas/_aaa.md"
 
 res=`echo "$file" | sed -r 's!^.*/_[^/]*$!bypass!g'`
