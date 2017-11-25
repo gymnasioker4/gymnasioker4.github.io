@@ -19,6 +19,91 @@ webpath=/hugo/admin/articles
 
 #######
 echo "Generating Site...<br><br>"
+xxsplitFile(){
+pathFile="$1"
+data=`cat  $pathFile`
+sectionsNum="$2"
+outputDir="$3"
+		f=`echo "$pathFile" | sed -r 's!^.*/([^/]*)\.md$!\1!g'`
+		p=`echo "$pathFile" | sed -r 's!(^.*)/[^/]*$!\1!g'`
+		#e=
+echo "zzzzzzzz$f"
+echo "aaaaaaaa$p"
+yamltext=`echo "$data"|sed ':a;N;$!ba;s/\n/xxxxx/g'|sed -r 's/(<hr>)/\1\n/g'`
+
+
+#echo "$yamltext"
+
+count="$sectionsNum"
+pageindex=""
+IFS='
+'
+for page in `echo "$yamltext"`
+do
+ 
+if [ "$count" = "$sectionsNum" ]
+then
+count=0
+nextpageindex=$((pageindex + 1))
+echo "<a href='""$f"$nextpageindex".md""'>next</a>">> "$p""/$f"$pageindex".md"
+pageindex=$((pageindex + 1))
+echo "" > "$p""/$f"$pageindex".md"
+fi
+count=$((count + 1))
+
+#echo "$count"
+echo "$page"
+echo "==================="
+echo "<br>"
+page=`echo "$page"| sed 's/xxxxx/\n/g'`
+#echo "$page"
+echo "$page" >> "$p""/$f"$pageindex".md"
+
+done
+mv "$p""/$f""1.md" "$p""/$f"".md"
+
+
+}
+splitFile(){
+pathFile="$1"
+data=`cat  $pathFile`
+sectionsNum="$2"
+outputDir="$3"
+		f=`echo "$pathFile" | sed -r 's!^.*/([^/]*)\.md$!\1!g'`
+		p=`echo "$pathFile" | sed -r 's!(^.*)/[^/]*$!\1!g'`
+		#e=
+echo "zzzzzzzz$f"
+echo "aaaaaaaa$p"
+yamltext=`echo "$data"|sed ':a;N;$!ba;s/\n/xxxxx/g'|sed -r 's/(<hr>)/\1\n/g'`
+ 
+count="$sectionsNum"
+pageindex=""
+IFS='
+'
+for page in `echo "$yamltext"`
+do
+ 
+if [ "$count" = "$sectionsNum" ]
+then
+count=0
+nextpageindex=$((pageindex + 1))
+echo "<a href='""$f"$nextpageindex".md""'>next</a>">> "$p""/$f"$pageindex".md"
+pageindex=$((pageindex + 1))
+echo "" > "$p""/$f"$pageindex".md"
+fi
+count=$((count + 1))
+
+#echo "$count"
+#echo "$page"
+page=`echo "$page"| sed 's/xxxxx/\n/g'`
+#echo "$page"
+echo "$page" >> "$p""/$f"$pageindex".md"
+
+done
+mv "$p""/$f""1.md" "$p""/$f"".md"
+
+
+}
 sortPosts(){
 IFS='
 '
@@ -66,7 +151,7 @@ var_tags=`echo "$yamltext"|sed -n -r 's/tags: \[(.*)\]/\1/gp'`
 
 #sed -n '/P1/,/P2/p; /P2/q'
 
-echo $var_tags
+echo "$var_tags"
 }
 getFirstImage()
 {
@@ -260,19 +345,20 @@ echo "<div class='readmore'>">> $tagfile
 echo "Posted: $date" >> $tagfile
 
 
-echo "-------------"
+#echo "-------------"
 echo $tagfile
 
-echo "-------------"
+#echo "-------------"
 linktofile='<a class="readmorelink" href="'"../$onlyfilename"'">read-more</a>'
 
 
 
-echo "<br>$linktofile<br>$file<bd>$onlyfilename" >> $tagfile
+echo "<br>$linktofile<br>$file<br>$onlyfilename" >> $tagfile
 echo "<br><br><br>">> $tagfile
 echo "</div>">> $tagfile
 ## $file
-echo "-------------"
+#echo "-------------"
+echo "<hr>">> $tagfile
 }
 
 createFooterPost(){
@@ -297,9 +383,11 @@ linktoedit='<a class="editlink" target="_blank" href="'"/hugo/admin/scripts/edit
 #<a target="_blank" href="'"../scripts/edit.sh?file=""$onlyfilename""&cmd=open"'">edit</a>'
 echo "$linktofile""---""$linktoedit" >> $path"/"$indexfile
 echo "tags: $tags" >> $path"/"$indexfile
-echo "<hr>">> $path"/"$indexfile
+
 echo "<br><br><br>">> $path"/"$indexfile
 echo "</div>">> $path"/"$indexfile
+echo "<hr>">> $path"/"$indexfile
+
 }
 createTagLinks(){
 
@@ -367,18 +455,18 @@ echo "<hr class='hrsidebar'>" >> $path"/sidebar.html"
 createTagPages(){
 :
 file="$1"
-tags=`getTagsComma $file`
+tags=`getTagsComma "$file"`
 IFS=','
-
-for tag in $tags
+#echo "yyyyy$tags"
+for tag in `echo "$tags"`
 do
 #text=`cat "$file" | sed -e '/---/,/---/d'`
 	#echo "<br>"
-	#echo $tag
+	echo xxxxx$tag
 #echo "$text" | head -11  >> $path"/tagas/"$tag."md"
 getSummary "$text" >> $path"/tagas/""$tag"".md"
 echo "<br>" >> $path"/tagas/""$tag"".md"
-echo "<hr>">> $path"/tagas/""$tag"".md"
+#echo "<hr>">> $path"/tagas/""$tag"".md"
 
 createFooterTag "$file" $path"/tagas/""$tag"".md"
 
@@ -558,7 +646,7 @@ echo "============<br>"
 count=$((count + 1))
 recentpost=$((recentpost + 1))
 #indexfile="index"$countindex".md"
-if [ $count -gt 10 ]
+if [ $count -gt 1000 ]
 then
 
 countindex=$((countindex + 1))
@@ -567,6 +655,7 @@ echo "<a href='""index"$countindex".md""'>next</a>">> $path"/"$indexfile
 count=0
 #previndexfile=$indexfile
 indexfile="index"$countindex".md"
+
 echo "" > $path"/"$indexfile
 fi
 #echo $indexfile
@@ -629,9 +718,40 @@ echo "============<br>"
 
 }
 
-sortPosts
- #exit
-listArticles
+		 sortPosts
+ 
+		 listArticles
+
+#####################
+#
+#split the files
+#
+#####################
+		 index_path=$path"/index.md"
+		 splitFile "$index_path" "12" 
+		#exit	 
+		# cat "$path""/tagas/example1.md"
+		# xxsplitFile "$path""/tagas/Ασκήσεις_Φυσικής.md" "12" 
+		
+#exit
+
+echo "<br>"
+
+for f in `find $path"/tagas"`
+do
+if [ -d $f ]
+then
+:
+continue
+fi
+echo $f
+echo "<br>"
+splitFile "$f" "12"
+#exit
+done
+
+
+
 exit
 
 

@@ -2,9 +2,141 @@
 echo "Content-type: text/html"
 echo ''
 
-echo "jjj"
+zsplitFile(){
+pathFile="$1"
+data=`cat  $pathFile`
+sectionsNum="$2"
+outputDir="$3"
+
+
+yamltext=`echo "$data"|sed ':a;N;$!ba;s/\n/xxx/g'|sed -r 's/(<hr>)/\1\n/g'`
+
+#echo $pathFile
+#exit
+count=0
+pageindex=""
+for page in `echo "$yamltext"`
+do
+#echo "llllllllllll"
+count=$((count + 1))
+
+echo "$count"
+#echo "$page"
+page=`echo "$page"| sed 's/xxx/\n/g'`
+echo "$page"
+echo "$page" >> $outputDir"/file"$pageindex".html"
+if [ "$count" = "$sectionsNum" ]
+then
+count=0
+pageindex=$((pageindex + 1))
+fi
+done
+}
+splitFile(){
+pathFile="$1"
+data=`cat  $pathFile`
+sectionsNum="$2"
+outputDir="$3"
+
+
+yamltext=`echo "$data"|sed ':a;N;$!ba;s/\n/xxx/g'|sed -r 's/(<hr>)/\1\n/g'`
+ 
+count="$sectionsNum"
+pageindex=""
+for page in `echo "$yamltext"`
+do
+ 
+if [ "$count" = "$sectionsNum" ]
+then
+count=0
+pageindex=$((pageindex + 1))
+echo "" > $outputDir"/file"$pageindex".html"
+fi
+count=$((count + 1))
+
+#echo "$count"
+#echo "$page"
+page=`echo "$page"| sed 's/xxx/\n/g'`
+echo "$page"
+echo "$page" >> $outputDir"/file"$pageindex".html"
+
+done
+}
+
+
+
+
+current_dir=`dirname $0`
+file_path=$current_dir"/file.html"
+
+
+splitFile "$file_path" "7" "$current_dir""/x"
+ 
+exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current_path=`dirname $0`
+config_path=$current_path"/file.html"
+
+data=`cat  $config_path`
+
+
+#yamltext=`echo "$data"|sed ':a;N;$!ba;s/\n/xxx/g'|sed -r 's/(<hr>)/000/3' | sed 's/xxx/\n/g'`
+yamltext=`echo "$data"|sed ':a;N;$!ba;s/\n/xxx/g'|sed -r 's/(<hr>)/\1\n000\n/g'`
+
+
+count=0
+pageindex=""
+for page in `echo "$yamltext"`
+do
+#echo "llllllllllll"
+count=$((count + 1))
+
+echo "$count"
+echo "$page"
+echo "$page" >>$current_path"/x/file"$pageindex".html"
+if [ "$count" = "7" ]
+then
+count=0
+pageindex=$((pageindex + 1))
+fi
+done
+#yamltext=`echo "$yamltext"| sed 's/xxx/\n/g'`
+
+
+#echo "$yamltext"
+
+
+
 
 exit
+
+
+
+
+
+
 file="http://gymnasioker4.graeca.tk/hugo/admin/articles/tagas/_aaa.md"
 
 res=`echo "$file" | sed -r 's!^.*/_[^/]*$!bypass!g'`
@@ -42,7 +174,6 @@ var_value=`echo "$data"|sed -n -r 's/'$var_name'=(.*)$/\1/p'`
 webscriptspath=$var_value
  
 exit
-
 
 
 
