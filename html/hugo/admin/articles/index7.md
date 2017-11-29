@@ -6,8 +6,8 @@
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/VvxrDJnCLLQ" width="420"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob091.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob091.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob091.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -19,8 +19,8 @@ tags: example1,example2
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSYUtkODBjRGJXX0E/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob090.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob090.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob090.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -34,8 +34,8 @@ tags: example1,example2
 Ο λογοτεχνικός διαγωνισμός του 4ου Γυμνασίου Κέρκυρας έδειξε ένα άλλο πρόσωπο του σχολείου μας. Παρά τη μικρή συμμετοχή των μαθητών -κάποιοι δίστασαν ή είπαν ότι δεν πρόλαβαν- όλα τα έργα που
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob089.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob089.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob089.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -48,8 +48,8 @@ _την μαθήτρια Κωνσταντίνα Μπότση Γ3_
 <iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3MWJhQXRPX0NMbkU/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob088.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob088.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob088.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -63,8 +63,8 @@ tags: example1,example2
 [εδώ](https://www.dropbox.com/sh/ddvopgowslujom3/PzQylVizq2)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob087.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob087.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob087.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -75,8 +75,8 @@ tags: example1,example2
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSeDJrdEoybHdpaEE/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob086.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob086.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob086.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -86,8 +86,8 @@ tags: example1,example2
 Μέσα στα πλαίσια του μαθήματος των καλλιτεχνικών, και δεδομένου οτι τα εικαστικά στην ελληνική εκπαίδευση, είναι άγνωστος τόπος,η προσπάθεια είναι, οι μαθητές της Α, Β και Γ γυμνασίου να πάρουν μια "γεύση " γύρω απο τα διάφορετικά υλικά και τεχνικές.
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob085.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob085.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob085.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -98,8 +98,8 @@ tags: example1,example2
 [Μια όμορφη παρουσίαση για τα ηφαίστεια](https://docs.google.com/file/d/0B_I1oSy0BsA3UWtfTUpSb081Yms/edit?usp=sharing)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob084.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob084.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob084.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -109,8 +109,8 @@ tags: example1,example2
 <iframe allowfullscreen=" frameborder="0" height="344" src="http://www.youtube.com/embed/4aYQixhdWY4" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob083.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob083.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob083.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -121,8 +121,8 @@ tags: example1,example2
 Κάντε κλίκ [εδώ](http://geogr.eduportal.gr/maps/world_map/World_map.htm)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob082.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob082.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob082.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -133,8 +133,8 @@ tags: example1,example2
 [Μιά Ομορφη Παρουσίαση για την Βιολογία](https://docs.google.com/file/d/0B_I1oSy0BsA3aml3NU1FUkd5aXM/edit)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob081.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob081.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob081.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -145,8 +145,8 @@ tags: example1,example2
 <iframe frameborder="0" height="327" scrolling="no" src="https://skydrive.live.com/embed?cid=93EFE049DF9140DA&resid=93EFE049DF9140DA%211130&authkey=ACK5qWDezsu-ANA&em=2" width="402"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob080.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob080.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob080.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>

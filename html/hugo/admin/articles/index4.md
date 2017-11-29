@@ -5,8 +5,8 @@
 <iframe height="3500" src="https://docs.google.com/document/pub?id=1cO0JdlKb1gckdQXto03mxEc1R4-ahZH3uFkSE2mOtFs&embedded=true" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob127.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob127.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob127.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -17,8 +17,8 @@ tags: example1,example2
 [εδώ](https://docs.google.com/document/pub?id=1RDwHXGhxa31szFfdNknhGCajoH4Z7HhJGlKxncDJ9vc&embedded=true)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob126.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob126.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob126.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -30,8 +30,8 @@ tags: example1,example2
 <iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3MFoyR1JmMHYwS1k/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob125.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob125.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob125.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -43,8 +43,8 @@ tags: example1,example2
 <iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="500" height="350" src="https://www.youtube.com/embed/7g5pUw15AoM?feature=player_embedded" frameborder="0"><br><br><br></iframe><iframe height="350" src="https://docs.google.com/file/d/0B4T-U5-yEriSQmRBa2l2ajdudUE/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob124.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob124.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob124.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -56,8 +56,8 @@ tags: example1,example2
 Ο άνθρακας είναι το πρώτο στοιχείο της 14ης ομάδας του περιοδικού πίνακα. Στη φύση βρίσκεται:·        είτε ελεύθερος με τη μορφή των γαιανθράκων, του διαμαντιού και του γραφίτη (φυσικοί άνθρακες)·        είτε με τη μορφή ενώσεων, κυρίως
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob123.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob123.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob123.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -71,8 +71,8 @@ tags: example1,example2
 **Γ΄τάξη**Livre :
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob122.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob122.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob122.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -83,8 +83,8 @@ tags: example1,example2
 <iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3bjN6bFlucjRhZTg/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob121.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob121.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob121.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -95,8 +95,8 @@ tags: example1,example2
 <iframe height="350" src="https://docs.google.com/file/d/0B_I1oSy0BsA3dmtCQlA0OTlKWk0/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob120.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob120.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob120.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -108,8 +108,8 @@ tags: example1,example2
 του σχολείου, Εχουμε μία έντονη δραστηριότητα από το 1999.Βασικός στόχος η ομαδικότητα,η δημιουργία φιλίας και η κάλλιέργεια των παιδιών μέσω της καλλιτεχνικής δημιουργίας.Το ανέβασμα μιας παράστασης δεν είναι
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob119.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob119.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob119.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -120,8 +120,8 @@ tags: example1,example2
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSZ2NZT1A2cWpXU0E/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob118.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob118.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob118.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -132,8 +132,8 @@ tags: example1,example2
 <iframe height="385" src="https://docs.google.com/file/d/0B4T-U5-yEriSa3A2aUtDdlZOdVk/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob117.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob117.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob117.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -144,8 +144,8 @@ tags: example1,example2
 <object><param name="allowfullscreen" value="true"><param name="movie" value="http://www.facebook.com/v/313429648758777"><embed src="http://www.facebook.com/v/313429648758777" type="application/x-shockwave-flash" allowfullscreen="1"></object>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob116.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob116.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob116.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>

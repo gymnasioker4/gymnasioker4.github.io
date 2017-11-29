@@ -5,8 +5,8 @@
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSRGhKX3lmZ19YaUU/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob115.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob115.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob115.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -17,8 +17,8 @@ tags: example1,example2
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSRllNSXlXX1NxMnM/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob114.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob114.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob114.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -29,8 +29,8 @@ tags: example1,example2
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSNEo0bGt1Y3hCTVE/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob113.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob113.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob113.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -40,8 +40,8 @@ tags: example1,example2
 <iframe width="420" height="315" src="http://www.youtube.com/embed/MrqqD_Tsy4Q" frameborder="0" allowfullscreen="></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob112.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob112.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob112.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -52,8 +52,8 @@ tags: example1,example2
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriScm9PWXZqeUl6WGs/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob111.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob111.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob111.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -64,8 +64,8 @@ tags: example1,example2
 <iframe allowfullscreen="" frameborder="0" height="344" src="http://www.youtube.com/embed/bEfrtAOMuvk?fs=1" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob110.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob110.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob110.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -75,8 +75,8 @@ tags: example1,example2
 <iframe allowfullscreen=" frameborder="0" height="344" src="http://www.youtube.com/embed/dBXL93984cQ?fs=1" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob109.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob109.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob109.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -87,8 +87,8 @@ tags: example1,example2
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSSVI1SnMzOG1pSXM/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob108.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob108.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob108.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -99,8 +99,8 @@ tags: example1,example2
 <iframe allowfullscreen="" frameborder="0" height="344" src="http://www.youtube.com/embed/AVCX5BfPn6A?fs=1" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob107.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob107.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob107.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -111,8 +111,8 @@ tags: example1,example2
 <iframe allowfullscreen="" frameborder="0" height="344" src="http://www.youtube.com/embed/9K_r8BUXoMw?fs=1" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob106.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob106.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob106.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -123,8 +123,8 @@ tags: example1,example2
 <iframe allowfullscreen="" frameborder="0" height="344" src="http://www.youtube.com/embed/LexcwNDW-2s?fs=1" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob105.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob105.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob105.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -135,8 +135,8 @@ tags: example1,example2
 <iframe allowfullscreen="" frameborder="0" height="344" src="http://www.youtube.com/embed/RbsPrB-P0SM?fs=1" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob104.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob104.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob104.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>

@@ -19,8 +19,8 @@ Features:
 * Updating the
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/baseplate/README.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/lessons/baseplate/README.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/baseplate/README.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>
@@ -30,8 +30,8 @@ tags:
 
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/images2/readme.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/images2/readme.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/images2/readme.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>
@@ -54,8 +54,8 @@ tags:
 Στον πίνακά του τα χημικά στοιχεία κατατάχτηκαν από το στοιχείο με
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/eleni/cheG.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/eleni/cheG.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/eleni/cheG.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>
@@ -76,8 +76,8 @@ tags:
 Ριχνουμε μεσα ενα ποτήρι 100gr  νερό, μια κουταλια καθαριστικό, μια κουταλια αλατι και τα
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/ain/πειραματαβιολογιας.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/πειραματαβιολογιας.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/πειραματαβιολογιας.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>
@@ -87,8 +87,8 @@ tags:
 res=990ααςςγεργτγεdfwfrfwerfrf
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/ain/w.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/w.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/w.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>
@@ -98,10 +98,12 @@ tags:
 
 
 [Βιβλίο Αγ. Πατρικίου](http://www.academia.edu/31990806/SAINTS_OF_BRITAIN_AND_IRELAND.pdf)
+
+[Χημεία](http://molwave.chem.auth.gr/fabchem/?q=node/50)
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/ain/links.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/links.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/links.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>
@@ -124,8 +126,8 @@ stylesheet type
 Στον πίνακά του τα χημικά στοιχεία κατατάχτηκαν από το στοιχείο με τα ελαφρύτερα άτομα προς αυτό
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/ain/cheG.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/cheG.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/cheG.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>
@@ -144,8 +146,8 @@ tags:
 [http://www.google.com](http://www.google.com)
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/ain/09-06-2017vffvfeden6666.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/09-06-2017vffvfeden6666.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/09-06-2017vffvfeden6666.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>
@@ -158,8 +160,8 @@ new line 22
 1111111111111111
 <br>
 <div class='readmore'>
-Posted: 
-<a class="readmorelink" href="gymnasioker4.github.io-master/README.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/README.md&cmd=open">edit</a>
+Posted: <br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/README.md">read-more</a><br>
 tags: 
 <br><br><br>
 </div>

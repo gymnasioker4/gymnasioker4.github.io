@@ -1,5 +1,39 @@
 
 
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/ain/reactions-che.md">Αντιδράσεις Χημείας</a></h1>
+
+### Ζωικός Άνθρακας
+Αποχρωματισμος Διαλύματος 
+
+* Ξίδι
+* Ζωικός άνθρακας
+* Χαρτι γαλλικού καφέ
+
+![link](/hugo/admin/img/zoikos.jpg)
+
+
+### Οξύ και Ανθρακικό Ασβέστιο
+
+* Σκόνη Κιμωλίας (\`CaCO_3\`)
+* Υδροχλωρικο Οξύ (HCl)
+
+![link](/hugo/admin/img/kimolia.jpg)
+
+### Μέτταλο και Οξύ
+
+* Σκόνη Ψευδαργύρου (Zn)
+* Υδροχλωρικο Οξύ (HCl)
+
+![link](/hugo/admin/img/apliantika3.jpg)
+<br>
+<div class='readmore'>
+Posted: 27-11-2017<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/reactions-che.md">read-more</a><br>
+tags: 
+<br><br><br>
+</div>
+<hr>
+
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/xhmeia-tetramhnoy-b.md">Χημεία Β Γυμνασιου</a></h1>
 
 # Διαγώνισμα Α τετραμήνου στην Χημεία Β Γυμνασίου
@@ -13,8 +47,8 @@
 Ποση ποσοτητα αλατιου θα
 <br>
 <div class='readmore'>
-Posted: 17-6-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/xhmeia-tetramhnoy-b.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/lessons/markdown/xhmeia-tetramhnoy-b.md&cmd=open">edit</a>
+Posted: 17-06-2017<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/xhmeia-tetramhnoy-b.md">read-more</a><br>
 tags: Χημεία,Ασκήσεις Χημείας
 <br><br><br>
 </div>
@@ -37,8 +71,8 @@ tags: Χημεία,Ασκήσεις Χημείας
 α) Πως ονομαζονται οι γραμμες του και ποσες
 <br>
 <div class='readmore'>
-Posted: 17-6-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/xhmeia-tetramhnou-c.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/lessons/markdown/xhmeia-tetramhnou-c.md&cmd=open">edit</a>
+Posted: 17-06-2017<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/xhmeia-tetramhnou-c.md">read-more</a><br>
 tags: Χημεία,Ασκήσεις Χημείας
 <br><br><br>
 </div>
@@ -58,8 +92,8 @@ tags: Χημεία,Ασκήσεις Χημείας
 #### 2)
 <br>
 <div class='readmore'>
-Posted: 17-6-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/physiki-tetramhnou-c.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/lessons/markdown/physiki-tetramhnou-c.md&cmd=open">edit</a>
+Posted: 17-06-2017<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/physiki-tetramhnou-c.md">read-more</a><br>
 tags: Φυσική,Ασκήσεις Φυσικής
 <br><br><br>
 </div>
@@ -79,67 +113,48 @@ A. ΔΧα->β
 B. ΔΧβ->γ  
 <br>
 <div class='readmore'>
-Posted: 17-6-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/physiki-tetramhnou-b.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/lessons/markdown/physiki-tetramhnou-b.md&cmd=open">edit</a>
+Posted: 17-06-2017<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/lessons/markdown/physiki-tetramhnou-b.md">read-more</a><br>
 tags: Φυσική,Ασκήσεις Φυσικής
 <br><br><br>
 </div>
 <hr>
 
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/eleni/phyA.md">Blog Homepage</a></h1>
-
-
-
-# ΘΕΩΡΙΑ 1ης ΓΥΜΝΑΣΙΟΥ στην ΦΥΣΙΚΗ
-
-## Φυσικά Μεγέθη
-
-
-Για να μπορέσουμε να περιγράψουμε τα φυσικά φαινόμενα ορίζουμε έννοιες μετρήσιμες οι όποιες ονομάζονται φυσικά μεγέθη.
->Π.χ. για να μπορέσουμε να πούμε ποσό ψυχρό η ποσό θερμό είναι ένα σώμα εισάγουμε την έννοια-φυσικό μέγεθος
-<br>
-<div class='readmore'>
-Posted: 17-4-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/eleni/phyA.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/eleni/phyA.md&cmd=open">edit</a>
-tags: 
-<br><br><br>
-</div>
-<hr>
-
-<h1><a class="readmorelink" href="gymnasioker4.github.io-master/ain/phyA.md">Blog Homepage</a></h1>
-
-
-
-# ΘΕΩΡΙΑ 1ης ΓΥΜΝΑΣΙΟΥ στην ΦΥΣΙΚΗ
-
-## Φυσικά Μεγέθη
-
-
-Για να μπορέσουμε να περιγράψουμε τα φυσικά φαινόμενα ορίζουμε έννοιες μετρήσιμες οι όποιες ονομάζονται φυσικά μεγέθη.
->Π.χ. για να μπορέσουμε να πούμε ποσό ψυχρό η ποσό θερμό είναι ένα σώμα εισάγουμε την έννοια-φυσικό μέγεθος
-<br>
-<div class='readmore'>
-Posted: 17-4-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/ain/phyA.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/phyA.md&cmd=open">edit</a>
-tags: 
-<br><br><br>
-</div>
-<hr>
-
 <h1><a class="readmorelink" href="gymnasioker4.github.io-master/ain/x.md">xxx</a></h1>
-dddhhh
-eeeeeeeeeee
+dddhhh   
+eeeeeeeeeee   
 eeeeeeee
-# test ain page
+
+
+### test ain page
 
 xήταν ένα φαινόμενο τροπικού είδους που αναπτύχθηκε στα ύδατα της Μεσογείου και περιλάμβανε ένα τείχος νεφών, όπως οι τυφώνες, αναφέρει η αμερικανική Υπηρεσία για τους Ωκεανούς
 
-Πηγή: Bloomberg: Φαινόμενο τροπικού είδους η καταιγίδα που προκάλεσε 21 θανάτους στην
+Πηγή: Bloomberg: Φαινόμενο τροπικού είδους η
 <br>
 <div class='readmore'>
-Posted: 17-06-2017
-<a class="readmorelink" href="gymnasioker4.github.io-master/ain/x.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/ain/x.md&cmd=open">edit</a>
+Posted: 17-06-2017<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/x.md">read-more</a><br>
 tags: 
+<br><br><br>
+</div>
+<hr>
+
+<h1><a class="readmorelink" href="gymnasioker4.github.io-master/ain/phyA.md">ΦΥΣΙΚΗ Α Γυμνασίου</a></h1>
+ [http://asciimath.org/](http://asciimath.org/)
+
+# ΘΕΩΡΙΑ 1ης ΓΥΜΝΑΣΙΟΥ στην ΦΥΣΙΚΗ
+
+## Φυσικά Μεγέθη
+
+
+Για να μπορέσουμε να περιγράψουμε τα φυσικά φαινόμενα ορίζουμε έννοιες μετρήσιμες οι όποιες ονομάζονται φυσικά μεγέθη.
+>Π.χ. για να μπορέσουμε να πούμε ποσό ψυχρό η ποσό θερμό είναι ένα σώμα εισάγουμε την έννοια-φυσικό
+<br>
+<div class='readmore'>
+Posted: 17-04-2017<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/ain/phyA.md">read-more</a><br>
+tags: Φυσική Α
 <br><br><br>
 </div>
 <hr>
@@ -148,8 +163,8 @@ tags:
 <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://1.gvt0.com/vi/D_dNm3e27w0/0.jpg" height="266" width="320"><param name="movie" value="http://www.youtube.com/v/D_dNm3e27w0&fs=1&source=uds"><param name="bgcolor" value="#FFFFFF"><param name="allowFullScreen" value="true"><embed width="320" height="266" src="http://www.youtube.com/v/D_dNm3e27w0&fs=1&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></object>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob156.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob156.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob156.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -159,8 +174,8 @@ tags: example1,example2
 <iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="320" height="266" src="https://www.youtube.com/embed/17jymDn0W6U?feature=player_embedded" frameborder="0"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob155.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob155.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob155.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -170,8 +185,8 @@ tags: example1,example2
 [![](http://2.bp.blogspot.com/-1mvn1ipZ63k/UH_uWSZOOSI/AAAAAAAAAkM/YMsOqHxcr2U/s400/Korfu+2010+507.jpg)](http://2.bp.blogspot.com/-1mvn1ipZ63k/UH_uWSZOOSI/AAAAAAAAAkM/YMsOqHxcr2U/s1600/Korfu+2010+507.jpg)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob154.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob154.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob154.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -182,8 +197,8 @@ tags: example1,example2
 <iframe height="360" src="https://docs.google.com/file/d/0B_I1oSy0BsA3NHZUVHBUcjNoSDg/preview" width="480"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob153.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob153.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob153.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -195,8 +210,8 @@ http://3.bp.blogspot.com/-biwN3rL12m4/UHbBOVCbLNI/AAAAAAAAAiU/EeZhUHOyMPE/s1600/
 <iframe height="360" src="https://docs.google.com/file/d/0B_I1oSy0BsA3V2RpT19JdWJjTU0/preview" width="480"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob152.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob152.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob152.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>

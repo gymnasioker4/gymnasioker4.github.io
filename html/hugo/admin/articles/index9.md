@@ -5,8 +5,8 @@
 <iframe height="480" src="https://docs.google.com/file/d/0B4T-U5-yEriSd0ZmUGFFMHFiODg/preview" width="640"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob067.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob067.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob067.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -19,8 +19,8 @@ tags: example1,example2
 <iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/zDZFcDGpL4U" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob066.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob066.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob066.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -31,8 +31,8 @@ tags: example1,example2
 [Όλες οι επαναληπτικες ερωτήσεις της ιστορίας βρίσκονται εδω](http://gymnasioker4.referata.com/)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob065.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob065.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob065.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -44,8 +44,8 @@ tags: example1,example2
 Ο Φιλόθεος Φάρος σπούδασε πολιτικές επιστήμες ,νομικά και θεολογία. Το 1962 συνέχισε τις σπουδές του στην ποιμαντική ψυχολογία και ποιμαντική συμβουλευτική στο
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob064.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob064.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob064.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -58,8 +58,8 @@ tags: example1,example2
 του ΑΝΤΡΕΙ ΤΑΡΚΟΦΣΚΙ
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob063.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob063.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob063.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -70,8 +70,8 @@ tags: example1,example2
 **Δείτε αυτό το εκπαιδευτικό εργαλείο.****Μπορείτε να βάζετε σημειώσεις πάνω σε σελίδες του ίντερνετ καθώς ****και πολλά άλλα...****ίσως κάτι αξίζει ...****[Πατήστε εδώ](http://www.surfmark.com/)**
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob062.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob062.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob062.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -84,8 +84,8 @@ tags: example1,example2
 **Ίσως εκπαιδευτικά κάτι να αξίζει....****[εδώ](https://popcorn.webmaker.org/)**
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob061.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob061.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob061.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -97,8 +97,8 @@ _του Γιάννη Σμαραγδή_
 _με τους Catherine Deneuve, Sebastian Koch, John Cleese, Catherine Deneuve, Juan Diego Botto, Evgeny Stychkin, Olga Sutulova, Λάκη Λαζόπουλο, Άκη Σακελλαρίου, Μαρίσσα Τριανταφυλλίδου, Αλεξάνδρα Σακελλαροπούλου, Γιάννη Βούρο, Αλέξανδρο Μυλωνά, Γιώργο Χαραλαμπίδη, Μιχάλη Ιατρόπουλο, Φωτεινή Μπαξεβάνη, Παύλο
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob060.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob060.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob060.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -110,8 +110,8 @@ tags: example1,example2
 «Μια φορά κι έναν καιρό», λέει ο μύθος, «ήτανε ένας σουλτάνος, καλός και δίκαιος και είχε έναν βεζύρη, που ήτανε και αυτός καλός και ήταν κι αστρολόγος. Μια μέρα ο βεζύρης λέγει του σουλτάνου, πως είδε
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob059.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob059.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob059.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -133,8 +133,8 @@ Cast:
 Βρισκόμαστε στο 1948\. Ο Clement είναι ένας άνεργος δάσκαλος μουσικής που έχει
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob051.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob051.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob051.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -146,8 +146,8 @@ tags: example1,example2
 **_επιβάλλουν μίαν δουλείαν σκληράν, _****_τους ενισχύετε κατά τον τρόπον
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob050.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob050.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob050.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -159,8 +159,8 @@ tags: example1,example2
 <iframe allowfullscreen="" frameborder="0" height="344" src="//www.youtube.com/embed/lMrtrGMiUos" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob049.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob049.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob049.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>

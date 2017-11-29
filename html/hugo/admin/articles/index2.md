@@ -6,8 +6,8 @@
 **1\. Η ταξινόμηση των χημικών στοιχείων.**Οι άνθρωποι από τη φύση τους θέλουν να πετυχαίνουν σπουδαία αποτελέσματα καταναλώνοντας το λιγότερο δυνατό χρόνο και κόπο. Για το σκοπό αυτό προσπαθούν να ομαδοποιούν τα πράγματα
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob151.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob151.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob151.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -17,8 +17,8 @@ tags: example1,example2
 <iframe allowfullscreen=" frameborder="0" height="344" src="http://www.youtube.com/embed/qb4NSW8uHbo?fs=1" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob150.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob150.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob150.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -28,8 +28,8 @@ tags: example1,example2
 <iframe allowfullscreen=" frameborder="0" height="344" src="http://www.youtube.com/embed/UM27bYyV0I4?fs=1" width="459"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob149.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob149.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob149.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -40,8 +40,8 @@ tags: example1,example2
 <iframe frameborder="0" height="2677" scrolling="no" src="http://www.webdoc.com/embed/C56CB3C9-83E0-0001-11BD-1DBA1B001CA0" title="webdoc" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob148.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob148.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob148.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -52,8 +52,8 @@ tags: example1,example2
 <iframe frameborder="0" height="666" scrolling="no" src="http://www.webdoc.com/embed/C56CDCD4-8040-0001-5125-1808145B1C0E" title="webdoc" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob147.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob147.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob147.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -64,8 +64,8 @@ tags: example1,example2
 <iframe frameborder="0" height="710" scrolling="no" src="http://www.webdoc.com/embed/C56D13A2-3EE0-0001-7750-F598E550C810" title="webdoc" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob146.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob146.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob146.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -76,8 +76,8 @@ tags: example1,example2
 <iframe allowfullscreen="true" frameborder="0" height="389" mozallowfullscreen="true" src="https://docs.google.com/presentation/embed?id=1gHHZd3c2fV3FIGz_ToDHVS5D-tzBzo140Qr0t0w4j-0&start=false&loop=false&delayms=3000" webkitallowfullscreen="true" width="480"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob145.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob145.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob145.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -89,8 +89,8 @@ tags: example1,example2
 GUTENBERGΤόλογλου Στ., (1998)«Ηλεκτρικές Οικιακές Συσκευές», Εκδόσεις ΙΩΝ**ΙΣΤΟΣΕΛΙΔΕΣ** [www.cres.gr](http://www.cres.gr/)http://ancient-civil-energymanagement.wikidot.com/aeras (ΑΡΧΑΙΟΙ ΠΟΛΙΤΙΣΜΟΙ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΕΝΕΡΓΕΙΑΣ) (ΟΙΚΟΛΟΓΙΚΗ ΚΙΝΗΣΗ ΠΑΤΡΑΣ)[www.oikipa.gr](http://www.oikipa.gr/)[www.greenpeace.org](http://www.greenpeace.org/) [www.electrocycle.gr](http://www.electrocycle.gr/) [www.econews.gr](http://www.econews.gr/) [www.syskeves.gr](http://www.syskeves.gr/) 
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob144.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob144.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob144.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -101,8 +101,8 @@ tags: example1,example2
 <iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" width="320" height="266" src="https://www.youtube.com/embed/VfZ1kP4ErKc?feature=player_embedded" frameborder="0"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob143.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob143.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob143.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -113,8 +113,8 @@ tags: example1,example2
 [Όξινη Βροχή](https://docs.google.com/file/d/0B_I1oSy0BsA3NThWWTJsSlVwTGc/preview)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob142.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob142.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob142.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -124,8 +124,8 @@ tags: example1,example2
 ![](http://4.bp.blogspot.com/-XcIGdof6mCM/UHtfTeGBRLI/AAAAAAAAAW8/UXVbtb4kW8Y/s200/tuesday.gif)[Η τρύπα του Όζοντος](https://docs.google.com/file/d/0B_I1oSy0BsA3MWIzcFNJVXVRSE0/preview)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob141.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob141.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob141.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -135,8 +135,8 @@ tags: example1,example2
 ![](http://4.bp.blogspot.com/-XcIGdof6mCM/UHtfTeGBRLI/AAAAAAAAAW8/UXVbtb4kW8Y/s200/tuesday.gif)[Το γυαλί](https://docs.google.com/file/d/0B_I1oSy0BsA3RzRPSGpVcU1TUlE/preview)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob140.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob140.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob140.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>

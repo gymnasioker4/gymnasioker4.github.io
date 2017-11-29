@@ -17,3 +17,14 @@
         margin: 60px auto;
         border: 3px solid #cccccc;
 }
+.editor-wrapper img
+{ 
+
+  border: 1px solid  ;
+  border-color: GRAY ;
+  padding: 5px;
+ 
+  width:50%;
+  height:auto;
+  margin:10px;
+}

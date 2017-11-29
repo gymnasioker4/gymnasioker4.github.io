@@ -11,7 +11,7 @@ echo ''
 ##################
 path=/home/ain/pCloudDrive/html/hugo/admin/articles
 linuxpath=/home/ain/pCloudDrive/html/hugo/admin/articles
-webpath=/hugo/admin/articles
+webpath=/hugo/admin
 
 #wget --no-check-certificate -O master.tar.gz https://github.com/gymnasioker4/gymnasioker4.github.io/archive/master.tar.gz ; tar -zxvf master.tar.gz -C $path; rm  master.tar.gz > tmp.tmp
 
@@ -352,8 +352,8 @@ echo $tagfile
 linktofile='<a class="readmorelink" href="'"../$onlyfilename"'">read-more</a>'
 
 
-
-echo "<br>$linktofile<br>$file<br>$onlyfilename" >> $tagfile
+echo "<br>$linktofile<br>" >> $tagfile
+#echo "<br>$linktofile<br>$file<br>$onlyfilename" >> $tagfile
 echo "<br><br><br>">> $tagfile
 echo "</div>">> $tagfile
 ## $file
@@ -374,14 +374,15 @@ tags=`getTagsComma $file`
 onlyfilename=`echo "$file" | sed 's!'^$path"/"'!!g'`
 
 echo "<div class='readmore'>">> $path"/"$indexfile
-echo "Posted: $date" >> $path"/"$indexfile
+echo "Posted: $date""<br>" >> $path"/"$indexfile
 #onlyfilename=`basename $file`
 
 linktofile='<a class="readmorelink" href="'"$onlyfilename"'">read-more</a>'
-linktoedit='<a class="editlink" target="_blank" href="'"/hugo/admin/scripts/edit.sh?file=""$onlyfilename""&cmd=open"'">edit</a>'
+linktoedit='<a class="editlink" target="_blank" href="'"$webpath""/scripts/edit.sh?file=""$onlyfilename""&cmd=open"'">edit</a>'
 
 #<a target="_blank" href="'"../scripts/edit.sh?file=""$onlyfilename""&cmd=open"'">edit</a>'
-echo "$linktofile""---""$linktoedit" >> $path"/"$indexfile
+#echo "$linktofile""---""$linktoedit" >> $path"/"$indexfile
+echo "$linktofile""<br>" >> $path"/"$indexfile
 echo "tags: $tags" >> $path"/"$indexfile
 
 echo "<br><br><br>">> $path"/"$indexfile
@@ -405,7 +406,7 @@ fi
 	#echo $file
 tagonlyfilename=`basename $file`
 tagname=`echo "$tagonlyfilename"|cut -d'.' -f1`
-taglinks='<a href="'"/hugo/admin/articles/tagas/$tagonlyfilename"'">'"$tagname"'</a>'
+taglinks='<a href="'"$webpath""/articles/tagas/$tagonlyfilename"'">'"$tagname"'</a>'
 echo "$taglinks"  >> $path"/tags.html"
 #echo "$taglinks""<br>"
 
@@ -443,7 +444,7 @@ then
 
 echo "$img" >> $path"/sidebar.html"
 fi
-sidebarlink='<a href="'"/hugo/admin/articles/$onlyfilename"'">'"$linkname"'</a>'
+sidebarlink='<a href="'"$webpath""/articles/$onlyfilename"'">'"$linkname"'</a>'
 echo "$xdate"" ""$sidebarlink""" >> $path"/sidebar.html"
 echo "$linktoedit""<br>" >> $path"/sidebar.html"
 echo "<hr class='hrsidebar'>" >> $path"/sidebar.html"
@@ -454,6 +455,11 @@ echo "<hr class='hrsidebar'>" >> $path"/sidebar.html"
 }
 createTagPages(){
 :
+#title=`getVarValue $file "title"`
+#onlyfilename=`echo "$file" | sed 's!'^$path"/"'!!g'`
+#titlelink='<a class="readmorelink" href="'"$onlyfilename"'">'"$title"'</a>'
+#echo "<h1>""$titlelink""</h1>">> $path"/"$indexfile
+
 file="$1"
 tags=`getTagsComma "$file"`
 IFS=','
@@ -464,6 +470,9 @@ do
 	#echo "<br>"
 	echo xxxxx$tag
 #echo "$text" | head -11  >> $path"/tagas/"$tag."md"
+title=`getVarValue "$file" "title"`
+echo "<h1>""$title""</h1>" >> $path"/tagas/""$tag"".md"
+#echo  "xxxtitle" >> $path"/tagas/""$tag"".md"
 getSummary "$text" >> $path"/tagas/""$tag"".md"
 echo "<br>" >> $path"/tagas/""$tag"".md"
 #echo "<hr>">> $path"/tagas/""$tag"".md"
@@ -481,41 +490,48 @@ then
 
 	#echo "<br>"
 	#echo "none"
-echo "$text" | head -11  >> $path"/tagas/""none.md"
+title=`getVarValue "$file" "title"`
+echo "<h1>""$title""</h1>" >> $path"/tagas/""none"".md"
+getSummary "$text"   >> $path"/tagas/""none.md"
 echo "<br>" >> $path"/tagas/""none.md"
-echo "<hr>">> $path"/tagas/""none.md"
-
+#echo "<hr>">> $path"/tagas/""none.md"
+createFooterTag "$file" $path"/tagas/""none"".md"
 fi
-
-
-
-
-
 
 IFS='
 '
 }
+
+
+
 escapeFiles(){
 file="$1"
-tmpfile=`echo "$file" | sed -r 's!^.*/([^/]*)$!\1!g'`
+#echo "www""$file""<br>"
+t=`echo "$file" | sed -r 's!^.*/([^/]*)$!\1!g'`
+case "$t" in
+index*|test*|_*) echo "bypass"
+#continue
+return
+;;
+*) x=0
+;;
+esac
 
-ext=`echo "$tmpfile"|cut -d'.' -f2`
+#ext=`echo "$t"|cut -d'.' -f2`
+ext=`echo "$t" | sed -r 's!^.*\.([^.]*)$!\1!g'`
+#echo "ask$lext"
+#echo "$ext"
+#echo "<br>"
 case "$ext" in
-css|jpg|png|html|sh|tmp|js|jpeg) echo "bypass"
- 
+#txt|css|jpg|png|html|sh|tmp|js|jpeg) echo "bypass"
+md) x=0
+return
+#continue
 ;;
-*) echo ""
-;;
-esac
-
-case "$tmpfile" in
-index*) echo "bypass"
- 
-;;
-*) echo ""
+*) echo "bypass"
+continue
 ;;
 esac
-
 
 
 
@@ -585,7 +601,7 @@ then
 continue
 fi
 #===========================
-#check if file is tagas folder and escape if it is
+#check if file is tagas folder and escape the files if it is
 #===========================
 res=`echo "$file" | sed -r 's!^.*/tagas/.*$!bypass!g'`
 if [ "$res" = "bypass" ]
@@ -608,34 +624,14 @@ fi
 #check if file has not wanted extension
 #===========================
 echo "escapeFiles<br>"
-#res=`escapeFiles "$file"`
+res=`escapeFiles "$file"`
 
-
-
-echo "www""$file""<br>"
-t=`echo "$file" | sed -r 's!^.*/([^/]*)$!\1!g'`
-case "$t" in
-index*|test*|_*) echo "bypass"
+if [ "$res" ="bypass" ] 
+then
 continue
-;;
-*) echo "$t"
-;;
-esac
+fi
 
-#ext=`echo "$t"|cut -d'.' -f2`
-ext=`echo "$t" | sed -r 's!^.*\.([^.]*)$!\1!g'`
-echo "ask$lext"
-echo "$ext"
-echo "<br>"
-case "$ext" in
-#txt|css|jpg|png|html|sh|tmp|js|jpeg) echo "bypass"
-md) echo "bypass"
-#continue
-;;
-*) echo "$t"
-continue
-;;
-esac
+
 
  
 echo "============<br>"
@@ -739,12 +735,12 @@ echo "<br>"
 
 for f in `find $path"/tagas"`
 do
-if [ -d $f ]
+if [ -d "$f" ]
 then
 :
 continue
 fi
-echo $f
+echo "$f"
 echo "<br>"
 splitFile "$f" "12"
 #exit

@@ -1,6 +1,70 @@
 #!/bin/sh
 echo "Content-type: text/html"
 echo ''
+getFirstImage()
+{
+	file="$1"
+	#cat "$file" 
+	text=`cat "$file" | sed -e '/---/,/---/d'`
+	
+	#echo $text
+imgs=`echo "$text"| sed -n -r 's#!\[\]\(([^)]*)\)#\1#p'`
+	#echo "000000000000000000000000000000"
+	#img=`echo "$text"| sed -n -r 's@\[@444@p'`
+	#echo $file
+	IFS='
+	'
+	for img in `echo "$imgs"`
+	do
+	#echo "www$i" 
+	echo '<img src="'
+	echo "$img" 
+	echo '" height="64" width="64">'
+	echo '<br>'
+	break
+	done
+	
+		
+}
+file="/home/ain/pCloudDrive/html/hugo/admin/articles/gymnasioker4.github.io-master/lessons/markdown/xhmeia-tetramhnou-c.md"
+#cat "$file" 
+img=`getFirstImage "$file"`
+echo "$img"
+
+
+exit
+current_path=`dirname $0`
+#config_path=$current_path"/file.html"
+cat $current_path"/x/aaa bbb.txt"
+
+cat $current_path"/x/ααά φασ.txt"
+
+
+
+
+exit
+
+child(){
+	  t="11"
+	echo "fff"
+}
+t=44
+father(){
+	echo $t
+	
+	echo $t
+}
+child
+father
+echo $t
+exit
+
+
+
+
+
+
+
 
 zsplitFile(){
 pathFile="$1"

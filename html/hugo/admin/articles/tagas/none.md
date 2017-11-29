@@ -1,46 +1,57 @@
 
+<h1>Αντιδράσεις Χημείας</h1>
+
+### Ζωικός Άνθρακας
+Αποχρωματισμος Διαλύματος 
+
+* Ξίδι
+* Ζωικός άνθρακας
+* Χαρτι γαλλικού καφέ
+
+![link](/hugo/admin/img/zoikos.jpg)
 
 
+### Οξύ και Ανθρακικό Ασβέστιο
 
-# ΘΕΩΡΙΑ 1ης ΓΥΜΝΑΣΙΟΥ στην ΦΥΣΙΚΗ
+* Σκόνη Κιμωλίας (\`CaCO_3\`)
+* Υδροχλωρικο Οξύ (HCl)
 
-## Φυσικά Μεγέθη
+![link](/hugo/admin/img/kimolia.jpg)
 
+### Μέτταλο και Οξύ
 
-Για να μπορέσουμε να περιγράψουμε τα φυσικά φαινόμενα ορίζουμε έννοιες μετρήσιμες οι όποιες ονομάζονται φυσικά μεγέθη.
->Π.χ. για να μπορέσουμε να πούμε ποσό ψυχρό η ποσό θερμό είναι ένα σώμα εισάγουμε την έννοια-φυσικό μέγεθος της θερμοκρασίας Θ η οποία μετριέται σε βαθμούς κελσίου C.
-Κατά ανάλογο τρόπο εισάγουμε και άλλες τέτοιες μετρήσιμες έννοιες-φυσικά μεγέθη.
+* Σκόνη Ψευδαργύρου (Zn)
+* Υδροχλωρικο Οξύ (HCl)
+
+![link](/hugo/admin/img/apliantika3.jpg)
 <br>
+<div class='readmore'>
+Posted: 27-11-2017
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/ain/reactions-che.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
-
-
-
-# ΘΕΩΡΙΑ 1ης ΓΥΜΝΑΣΙΟΥ στην ΦΥΣΙΚΗ
-
-## Φυσικά Μεγέθη
-
-
-Για να μπορέσουμε να περιγράψουμε τα φυσικά φαινόμενα ορίζουμε έννοιες μετρήσιμες οι όποιες ονομάζονται φυσικά μεγέθη.
->Π.χ. για να μπορέσουμε να πούμε ποσό ψυχρό η ποσό θερμό είναι ένα σώμα εισάγουμε την έννοια-φυσικό μέγεθος της θερμοκρασίας Θ η οποία μετριέται σε βαθμούς κελσίου C.
-Κατά ανάλογο τρόπο εισάγουμε και άλλες τέτοιες μετρήσιμες έννοιες-φυσικά μεγέθη.
-<br>
-<hr>
-
-dddhhh
-eeeeeeeeeee
+<h1>xxx</h1>
+dddhhh   
+eeeeeeeeeee   
 eeeeeeee
-# test ain page
+
+
+### test ain page
 
 xήταν ένα φαινόμενο τροπικού είδους που αναπτύχθηκε στα ύδατα της Μεσογείου και περιλάμβανε ένα τείχος νεφών, όπως οι τυφώνες, αναφέρει η αμερικανική Υπηρεσία για τους Ωκεανούς
 
-Πηγή: Bloomberg: Φαινόμενο τροπικού είδους η καταιγίδα που προκάλεσε 21 θανάτους στην Ελλάδα | iefimerida.gr   
-![link](/hugo/admin/img/arthrosi.jpg)
-
-
+Πηγή: Bloomberg: Φαινόμενο τροπικού είδους η
 <br>
+<div class='readmore'>
+Posted: 17-06-2017
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/ain/x.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1></h1>
 # Baseplate
 
 <div class="meta subtitle">
@@ -52,13 +63,30 @@ Baseplate is a dead-simple way to turn
 beautifully-styled webpages without any external programs. Just drop files in a
 web-accessible directory and go. It uses
 [showdown.js](https://github.com/coreyti/showdown) to render markdown on the
+fly in the browser.
+
+Features:
+
+* Updating the
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/lessons/baseplate/README.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1></h1>
 
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/images2/readme.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1>Θεωρία Χημείας</h1>
 
 <link rel=stylesheet type=text/css href='xblog.css'><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 
@@ -70,9 +98,18 @@ web-accessible directory and go. It uses
 ![](/hugo/admin/images/periodikos2.jpg)
 ![](/hugo/admin/images/periodikos3.jpg)
 
+Ο πρώτος περιοδικός πίνακας των στοιχείων παρουσιάστηκε λίγο πριν από το 1870 από το Ρώσο χημικό Mendeleev.
+
+Στον πίνακά του τα χημικά στοιχεία κατατάχτηκαν από το στοιχείο με
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/eleni/cheG.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1></h1>
 ### Παρατήρηση DNA
 
 **Υλικά**  
@@ -84,19 +121,40 @@ web-accessible directory and go. It uses
 
 Πολτοποιουμε μιση μπανανα σε ενα πλαστικο σακουλακι
 
+Ριχνουμε μεσα ενα ποτήρι 100gr  νερό, μια κουταλια καθαριστικό, μια κουταλια αλατι και τα
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/ain/πειραματαβιολογιας.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1></h1>
 res=990ααςςγεργτγεdfwfrfwerfrf
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/ain/w.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1></h1>
 
 
 [Βιβλίο Αγ. Πατρικίου](http://www.academia.edu/31990806/SAINTS_OF_BRITAIN_AND_IRELAND.pdf)
+
+[Χημεία](http://molwave.chem.auth.gr/fabchem/?q=node/50)
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/ain/links.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1>Θεωρία Χημείας</h1>
 
 stylesheet type
 
@@ -108,9 +166,18 @@ stylesheet type
 ![](/hugo/admin/images/periodikos2.jpg)
 ![](/hugo/admin/images/periodikos3.jpg)
 
+Ο πρώτος περιοδικός πίνακας των στοιχείων παρουσιάστηκε λίγο πριν από το 1870 από το Ρώσο χημικό Mendeleev.
+
+Στον πίνακά του τα χημικά στοιχεία κατατάχτηκαν από το στοιχείο με τα ελαφρύτερα άτομα προς αυτό
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/ain/cheG.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1></h1>
 # heading 1
 ## heading 2  
 
@@ -122,12 +189,22 @@ stylesheet type
 
 [http://www.google.com](http://www.google.com)
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/ain/09-06-2017vffvfeden6666.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
 
+<h1></h1>
 # gymnasioker4.github.io
 gymnasioker4.github.io  
 new line 22
 1111111111111111
 <br>
+<div class='readmore'>
+Posted: 
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/README.md">read-more</a><br>
+<br><br><br>
+</div>
 <hr>
-<a href='none2.md'>next</a>

@@ -1,6 +1,6 @@
 ---
 title: Χημεία Γ Γυμνασιου
-date: 17-6-2017
+date: 17-06-2017
 tags: [Χημεία,Ασκήσεις Χημείας]
 thumbnail: img/placeholder.png
 ---

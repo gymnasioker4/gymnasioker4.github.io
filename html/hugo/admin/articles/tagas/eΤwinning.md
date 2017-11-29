@@ -1,4 +1,5 @@
 
+<h1>Πρόγραμμα eTwinning</h1>
 [![](http://2.bp.blogspot.com/-fcyKaiBbFL0/VWMNTN1i12I/AAAAAAAAAcM/vGBeY6CX7C4/s200/etwinning.jpg)](http://2.bp.blogspot.com/-fcyKaiBbFL0/VWMNTN1i12I/AAAAAAAAAcM/vGBeY6CX7C4/s1600/etwinning.jpg)  
 
 Το μέλι της μέλισσας, μέλι μας!
@@ -12,7 +13,7 @@
 <br>
 <div class='readmore'>
 Posted: 2011-01-01
-<br><a class="readmorelink" href="../gymnasioker4.github.io-master/oldposts/cob008.md">read-more</a><br>/home/ain/pCloudDrive/html/hugo/admin/articles/gymnasioker4.github.io-master/oldposts/cob008.md<br>gymnasioker4.github.io-master/oldposts/cob008.md
+<br><a class="readmorelink" href="../gymnasioker4.github.io-master/oldposts/cob008.md">read-more</a><br>
 <br><br><br>
 </div>
 <hr>

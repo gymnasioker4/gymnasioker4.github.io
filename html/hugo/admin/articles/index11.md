@@ -4,8 +4,8 @@
 <iframe height="385" src="https://docs.google.com/file/d/0B4T-U5-yEriSRE1aNExTcXItVU0/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob036.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob036.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob036.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -17,8 +17,8 @@ tags: example1,example2
 Στα πλαίσια της πανελλήνιας ημέρας σχολικού αθλητισμού που θεσμοθετήθηκε από το Υπουργείο Παιδείας, οι μαθητές μας του 4ουΓυμνασίου Κέρκυρας σε συνεργασία με τους μαθητές του 3ου Γυμνασίου, συμμετείχαν σήμερα, στις 4/11/2014 σε αθλητικές εκδηλώσεις που
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob035.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob035.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob035.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -30,8 +30,8 @@ tags: example1,example2
 Κεφάλαια 1-4 Ερωτήσεις1.     Τι είναι κοινωνία; (σελ 12-13)2.    Τι είναι η κοινωνική ομάδα; (σελ.15)3.    Πώς διακρίνονται οι κοινωνικές ομάδες; (σελ. 15-16)4.    Τι σημαίνει ο όρος προκατάληψη;Πού μπορούν να οδηγήσουν οι προκαταλήψεις; (σελ.16)5.    Για ποιους λόγους
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob034.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob034.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob034.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -46,8 +46,8 @@ tags: example1,example2
 Αμανατίδου Αθηνά ΠΕ05
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob033.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob033.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob033.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -58,8 +58,8 @@ tags: example1,example2
 [Παρουσίαση - Οι γείτονες του Βυζαντίου](http://www.slideboom.com/presentations/474075/%CE%9F%CE%B9-%CE%B3%CE%B5%CE%AF%CF%84%CE%BF%CE%BD%CE%B5%CF%82-%CF%84%CF%89%CE%BD-%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CF%8E%CE%BD)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob032.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob032.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob032.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -71,8 +71,8 @@ tags: example1,example2
 [Project - Τμήμα Α4](https://www.dropbox.com/s/qvw6kzt6kacz5b4/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE%20%CE%AD%CE%BA%CE%B8%CE%B5%CF%83%CE%B7%20%CE%B3%CE%B9%CE%B1%20%CF%84%CE%BF%20project%20A4%20-%20%CE%91%CE%84%CF%84%CF%81%CE%AF%CE%BC%CE%B7%CE%BD%CE%BF.pdf?dl=0)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob031.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob031.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob031.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -84,8 +84,8 @@ tags: example1,example2
 Στην πορεία των σελίδων του παρόντος εγχειριδίου μπορείς να δοκιμάσεις τις ικανότητές σου, να μάθεις περισσότερα σχετικά με τα δικαιώματά σου στο διαδικτυακό κόσμο και να δημιουργήσεις συμβουλέςκαι εργαλεία που μπορείς να μοιραστείς με τους νέους σε όλο
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob030.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob030.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob030.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -96,8 +96,8 @@ tags: example1,example2
 Διαβάζοντας το παραπάνω
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob029.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob029.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob029.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -108,8 +108,8 @@ tags: example1,example2
 Στις 19.12.2014 οι μαθητές μας της Α΄τάξης ενημερώθηκαν από τον κ.Μπόικο Σπύρο του Κέντρου Ψυχικής Υγείας - Ιατροπαιδαγωγικού Κέντρου Κέρκυρας, σχετικά με την **Ασφάλεια στο Διαδίκτυο**.Με αφορμή την προβολή ενός βίντεο,έγινε συζήτηση με τους μαθητέςγια τα δικαιώματά τους αλλά και για την υποχρέωσή
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob028.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob028.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob028.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -120,8 +120,8 @@ tags: example1,example2
 Αμανατίδου Αθηνά ΠΕ05-ΠΕ09
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob027.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob027.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob027.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -131,8 +131,8 @@ tags: example1,example2
 ![](http://1.bp.blogspot.com/-FeClCljesps/VLGEKt98ImI/AAAAAAAAAKg/ulJ9QAfWqpA/s1600/school%2Bwork.jpg) 
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob026.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob026.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob026.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -143,8 +143,8 @@ tags: example1,example2
 ![](http://2.bp.blogspot.com/-S4gf-fECgJg/VLd0jdzd2fI/AAAAAAAAAAM/1Yylf9DY7SU/s1600/%CE%97%CE%9C%CE%95%CE%A1%CE%99%CE%94%CE%91%2B%CE%9A%CE%91%CE%A4%CE%91%2B%CE%A4%CE%9F%CE%A5%2B%CE%A1%CE%91%CE%A4%CE%A3%CE%99%CE%A3%CE%9C%CE%9F%CE%A5.JPG)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob025.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob025.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob025.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>

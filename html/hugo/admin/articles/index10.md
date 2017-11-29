@@ -6,8 +6,8 @@
 Το ξέσπασμα της Κωνσταντίνας Γ., εκπαιδευτικού στο ΕΠΑΣ Ιλίου, κατά τη διάρκεια της συγκέντρωσης που πραγματοποίησε η ΟΛΜΕ στο υπ.Οικονομικών ενάντια στις απολύσεις και τα κλεισίματα σχολείων.
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob048.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob048.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob048.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -19,8 +19,8 @@ tags: example1,example2
 [http://gymnasioker4.referata.com/wiki/Centralpage](http://gymnasioker4.referata.com/wiki/Centralpage)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob047.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob047.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob047.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -31,8 +31,8 @@ tags: example1,example2
 <iframe allowfullscreen="" frameborder="0" height="270" src="//www.youtube.com/embed/jpl2fYgT9_U" width="480"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob046.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob046.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob046.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -48,8 +48,8 @@ _για την συνεισφορά τους_
 **...η τέχνη και ο πολιτισμός δεν γεννιόνται με προγράμματα  υπουργείων, κυβερνήσεων, βασιλειάδων και επιτρόπων...**
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob045.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob045.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob045.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -60,8 +60,8 @@ tags: example1,example2
 <iframe height="350" src="https://docs.google.com/file/d/0B0MaJq6lSGTBSVdSSnZKT2Y1Nms/preview" width="500"></iframe>
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob044.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob044.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob044.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -80,8 +80,8 @@ tags: example1,example2
 [Ομάδα ΑΔΑ](https://drive.google.com/file/d/0B08vB7-O21zAZnltbzRZV1hmUDA/edit?usp=sharing)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob043.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob043.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob043.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -95,8 +95,8 @@ tags: example1,example2
 [15 Διαγωνίσματα Χημείας Β Γυμνασίου](http://sxoleio.besaba.com/wiki/index.php?title=Lessons/%CE%A7%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1/%CE%92-%CE%93%CF%85%CE%BC%CE%BD%CE%B1%CF%83%CE%AF%CE%BF%CF%85/%CE%94%CE%B9%CE%B1%CE%B3%CF%89%CE%BD%CE%AF%CF%83%CE%BC%CE%B1%CF%84%CE%B1%2815%29)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob042.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob042.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob042.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -106,8 +106,8 @@ tags: example1,example2
 ![SAM_7227](http://aeginalight.gr/wp-content/uploads/2014/05/SAM_7227.jpg)Το σνομπάρισμα του Ρεμπέτικου ως τάχαμου ''δημιούργημα λούμπεν,παραβατικών ατόμων'' έδινε κ έπαιρνε στιις πρώτες δεκαετίες του 20ου αιώνα από κύκλους που ''ξεχνούσαν ,ωστόσο,πως η πραγματική ζωή τα εμπεριέχει όλα.Και τον πόνο ,και τη θλίψη,και την απελπισία ,και το παράπονο και
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob041.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob041.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob041.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -120,8 +120,8 @@ _**για**_
 **[http://edu.eneka.info/](http://edu.eneka.info/)**
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob040.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob040.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob040.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -133,8 +133,8 @@ tags: example1,example2
 [εδω](https://drive.google.com/folderview?id=0B0MaJq6lSGTBbG5LWFcyOEJ2eXM&usp=sharing)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob039.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob039.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob039.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -146,8 +146,8 @@ tags: example1,example2
 [πατήστε εδώ](https://www.dropbox.com/s/a4s90q3vt64bqz2/%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC%20project-1.pdf?n=100584276)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob038.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob038.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob038.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -160,8 +160,8 @@ tags: example1,example2
 ![](http://1.bp.blogspot.com/-_ENjLXPNfYs/VArJEmA9iNI/AAAAAAAAFBQ/HnsqL8KpKlI/s1600/%CE%B5%CE%B5%CE%B5%CE%B5.png)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob037.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob037.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob037.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>

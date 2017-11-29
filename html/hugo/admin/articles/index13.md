@@ -4,8 +4,8 @@
 **Διαγωνισμός Άνωσης-Πλεύσης**Την Τετάρτη 29 Απριλίου, το Γυμνάσιό μας συμμετείχε στο Διαγωνισμό Άνωσης-Πλεύσης.Η ομάδα που αποτελούνταν από τους μαθητές Ανδρεάδη Αδριανό, Αγιούς Όλγα και Γεωργούδη Βασίλη της Β΄ Γυμνασίου μετέβη στις εγκαταστάσεις του ΝΑΟΚ όπου κατασκεύασε πλοιάριο από απλά υλικά, παρουσίασε
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob012.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob012.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob012.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -18,8 +18,8 @@ tags: example1,example2
 [**2o βίντεο**](https://drive.google.com/file/d/0B96_5qga4ButVkllSkQ5cFFqTlk/view?usp=sharing)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob011.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob011.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob011.md">read-more</a><br>
 tags: Εκδρομές
 <br><br><br>
 </div>
@@ -30,8 +30,8 @@ tags: Εκδρομές
 Τη Δευτέρα 11.05.2015, τα τμήματα των γαλλικών της γ' τάξης πραγματοποίησαν επίσκεψη στο 1ο Γενικό Λύκειο,ύστερα από πρόσκληση της καθηγήτριας γαλλικών κ. Αγιοβλασίτη.Στη διάρκεια της επίσκεψης οι μαθητές και των δυο σχολείων συμμετείχαν σε γλωσσική δραστηριότητα της καθηγήτριας.Στο τέλος,
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob010.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob010.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob010.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -42,8 +42,8 @@ tags: example1,example2
 Στα πλαίσια των βιωματικών δράσεων οι μαθητές του Α4 ασχολήθηκαν με το θέμα της λογοκλοπής (συναντάται συχνά και ο όρος πλαγιαρισμός).Η ιδέα προέκυψε από τα προηγούμενα τρίμηνα,όταν παρατηρήθηκε το φαινόμενο, κατά την εκπόνηση εργασιών,οι μαθητές να βρίσκουν εύκολα τις
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob009.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob009.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob009.md">read-more</a><br>
 tags: Λογοκλοπή
 <br><br><br>
 </div>
@@ -62,8 +62,8 @@ tags: Λογοκλοπή
 ιδέες
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob008.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob008.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob008.md">read-more</a><br>
 tags:  eΤwinning
 <br><br><br>
 </div>
@@ -74,8 +74,8 @@ tags:  eΤwinning
 [Εργασίες Μαθητών](http://www.googledrive.com/host/0B96_5qga4ButOEt2RXZHbWx6a2M/)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob007.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob007.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob007.md">read-more</a><br>
 tags: Οικιακή Οικονομία
 <br><br><br>
 </div>
@@ -87,8 +87,8 @@ tags: Οικιακή Οικονομία
 Κατά τη διάρκεια του σχολικού έτους 2014-2015 υλοποιήθηκε πρόγραμμα αγωγής σταδιοδρομίας με θέμα **"Η σημασία των ξένων γλωσσών στα επαγγέλματα"**.Στο πρόγραμμα συμμετείχαν μαθητές και από τις τρεις τάξεις του Γυμνασίου, οι οποίοι εργάστηκαν υπό την επίβλεψη των εκπαιδευτικών Αμανατίδου Αθηνάς ΠΕ05/09 και
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob006.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob006.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob006.md">read-more</a><br>
 tags: ΚΠΑ
 <br><br><br>
 </div>
@@ -104,8 +104,8 @@ tags: ΚΠΑ
 [![](http://3.bp.blogspot.com/-tIi2YDjPsFc/VXf1qNqbS3I/AAAAAAAAACo/v8TasEGdc8o/s320/20150510_122747.jpg)](http://3.bp.blogspot.com/-tIi2YDjPsFc/VXf1qNqbS3I/AAAAAAAAACo/v8TasEGdc8o/s1600/20150510_122747.jpg)
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob005.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob005.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob005.md">read-more</a><br>
 tags: example1,example2
 <br><br><br>
 </div>
@@ -119,8 +119,8 @@ tags: example1,example2
 Σε σύντομο χρονικό διάστημα θα δημοσιεύσουμε φωτογραφίες από
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob003.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob003.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob003.md">read-more</a><br>
 tags: Ανακοινώσεις
 <br><br><br>
 </div>
@@ -133,8 +133,8 @@ Aγαπητοί Μαθητές, σας ευχόμαστε καλή πορεία 
 Ανάμεσα στα μαθήματα
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob002.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob002.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob002.md">read-more</a><br>
 tags: Θρησκευτικά
 <br><br><br>
 </div>
@@ -146,8 +146,8 @@ tags: Θρησκευτικά
 Στο μάθημα των θρησκευτικών δεν ψάχνουμε επιστημονικές απαντήσεις για το πώς δημιουργήθηκε και εξελίχτηκε το σύμπαν. Αυτές θα μας τι δώσει η σύγχρονη επιστήμη μέσα από άλλα μαθήματα
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob001.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob001.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob001.md">read-more</a><br>
 tags: Θρησκευτικά
 <br><br><br>
 </div>
@@ -161,8 +161,8 @@ tags: Θρησκευτικά
 Οι διοργανωτές της παρέλασης μας ειδοποίησαν ότι ο τόπος συγκέντρωσης θα είναι μπροστά στο ΑΚΤΑΙΟ και όχι στο Cavalieri.
 <br>
 <div class='readmore'>
-Posted: 2011-01-01
-<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob000.md">read-more</a>---<a class="editlink" target="_blank" href="/hugo/admin/scripts/edit.sh?file=gymnasioker4.github.io-master/oldposts/cob000.md&cmd=open">edit</a>
+Posted: 2011-01-01<br>
+<a class="readmorelink" href="gymnasioker4.github.io-master/oldposts/cob000.md">read-more</a><br>
 tags: 25ης-Μαρτίου
 <br><br><br>
 </div>
