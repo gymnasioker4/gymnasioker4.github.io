@@ -31,14 +31,14 @@ fi
 }
 
 checkFile(){
-	
+namefile="$1"
 file=~/$1
 if [ -f "$file" ]
 then
 	echo "$file found."
 else
 	echo "$file not found."
-cp hugo $file
+cp p/$namefile $file
 chmod +x $file
 fi	
 	
@@ -55,7 +55,9 @@ rm docs
 ln -s pCloudDrive/vagelis/caddy/hugo/test/content/post h
 ln -s pCloudDrive/html p
 ln -s /home/ain/pCloudDrive/docs docs
-cd p 
+
+ls
+#cd p 
 # p is soft link to pCloudDrive/html
 #
 
@@ -63,10 +65,12 @@ cd p
 
 #########
 
-checkFile caddy
-checkFile hugo
-checkFile pcloudcc
-
+#checkFile caddy
+#checkFile hugo
+#checkFile pcloudcc
+#checkFile ttttt
+#checkFile caddy1
+killProc caddy1
 killProc caddy
 killProc hugo
 killProc pcloudcc
@@ -87,8 +91,11 @@ sleep 5
 ###cd ~/pCloudDrive/html/hugo/gymnasioker4  
 ###~/hugo
 #sh pCloudDrive/cmd2.sh
-
-~/caddy -conf  ~/p/CaddyfilePatrologia&
+ulimit -n 8192
+#~/caddy1 -conf  ~/p/CaddyfilePatrologia&
+#echo "oooo"
+~/caddy1 -conf  ~/p/CaddyfilePatrologia&
 #~/caddy -conf  ~/p/Caddyfile&
 ###~/caddy -conf  ~/p/CaddyfileHugo&
 #~/caddy -conf  ~/p/CaddyfileGymnasioker4&
+

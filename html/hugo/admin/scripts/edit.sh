@@ -125,6 +125,8 @@ xrawurldecode() {
 
 runJQUERY(){
 cat << EOF
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+
 <script src=../js/jquery213.js></script>
 
 <link rel="stylesheet" href="http://lab.lepture.com/editor/editor.css" />

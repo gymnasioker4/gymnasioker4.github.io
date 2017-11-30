@@ -67,6 +67,10 @@ redir 302 {
 
 http://gymnasioker4.graeca.tk {
 
+#rewrite /e {
+#	r  (.*)
+#	to /hugo/admin/img{1}
+#}
 browse /hugo/admin/articles/gymnasioker4.github.io-master/
 
 root /home/ain/pCloudDrive/html

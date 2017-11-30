@@ -28,3 +28,7 @@
   height:auto;
   margin:10px;
 }
+
+.CodeMirror {
+  height: 10000px;
+}
